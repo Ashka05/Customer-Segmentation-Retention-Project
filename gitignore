@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+virtualenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (too large for git)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.parquet
+data/features/*.parquet
+*.parquet
+
+# Model files (too large for git)
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pt
+
+# Output files (regenerated)
+outputs/*.parquet
+outputs/*.csv
+outputs/*.json
+outputs/visualizations/*.png
+outputs/business_reports/*.png
+outputs/business_reports/*.csv
+
+# Logs
+logs/
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/features/.gitkeep
+!models/.gitkeep
+!outputs/.gitkeep
+!outputs/visualizations/.gitkeep
+!logs/.gitkeep
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

@@ -1,0 +1,1881 @@
+CustomerID,priority_rank,campaign_tier,segment,action,churn_risk,expected_clv,expected_return,roi_pct
+14096.0,1,premium,Need Attention,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,2,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,3,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,4,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,5,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,6,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+14096.0,7,premium,Promising,Personal Call + 30% Discount + VIP Support,31.6%,$4729.96,$845.93,1691.9%
+13209.0,8,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+13209.0,9,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+13209.0,10,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+13209.0,11,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+13209.0,12,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+13209.0,13,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.1%,$1481.21,$528.34,1056.7%
+14415.0,14,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,15,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,16,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,17,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,18,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,19,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,20,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+14415.0,21,premium,Promising,Personal Call + 30% Discount + VIP Support,41.5%,$1759.64,$387.84,775.7%
+15856.0,22,premium,Need Attention,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,23,premium,Need Attention,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,24,premium,Need Attention,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,25,premium,Hibernating,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,26,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,27,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,28,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,29,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,30,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,31,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,32,premium,Promising,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15856.0,33,premium,Lost/Churned,Personal Call + 30% Discount + VIP Support,33.8%,$1598.02,$273.85,547.7%
+15358.0,34,premium,Need Attention,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,35,premium,Need Attention,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,36,premium,Need Attention,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,37,premium,Hibernating,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,38,premium,Hibernating,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,39,premium,Hibernating,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,40,premium,Promising,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,41,premium,Promising,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,42,premium,Promising,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,43,premium,Promising,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+15358.0,44,premium,Promising,Personal Call + 30% Discount + VIP Support,72.3%,$544.13,$185.9,371.8%
+14535.0,45,premium,Need Attention,Personal Call + 30% Discount + VIP Support,87.8%,$418.12,$170.2,340.4%
+14535.0,46,premium,Promising,Personal Call + 30% Discount + VIP Support,87.8%,$418.12,$170.2,340.4%
+14535.0,47,premium,Promising,Personal Call + 30% Discount + VIP Support,87.8%,$418.12,$170.2,340.4%
+14535.0,48,premium,Promising,Personal Call + 30% Discount + VIP Support,87.8%,$418.12,$170.2,340.4%
+14535.0,49,premium,Promising,Personal Call + 30% Discount + VIP Support,87.8%,$418.12,$170.2,340.4%
+13975.0,50,premium,Need Attention,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+13975.0,51,premium,Need Attention,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+13975.0,52,premium,Need Attention,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+13975.0,53,premium,Hibernating,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+13975.0,54,premium,Hibernating,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+13975.0,55,premium,Promising,Personal Call + 30% Discount + VIP Support,24.6%,$1450.51,$163.84,327.7%
+12359.0,56,premium,Need Attention,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,57,premium,Need Attention,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,58,premium,Need Attention,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,59,premium,Hibernating,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,60,premium,Hibernating,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,61,premium,Promising,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12359.0,62,premium,Promising,Personal Call + 30% Discount + VIP Support,31.5%,$1103.71,$158.29,316.6%
+12840.0,63,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.1%,$629.96,$154.3,308.6%
+12840.0,64,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.1%,$629.96,$154.3,308.6%
+12840.0,65,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.1%,$629.96,$154.3,308.6%
+12840.0,66,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.1%,$629.96,$154.3,308.6%
+12840.0,67,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.1%,$629.96,$154.3,308.6%
+17107.0,68,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$786.61,$144.55,289.1%
+17107.0,69,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$786.61,$144.55,289.1%
+17107.0,70,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$786.61,$144.55,289.1%
+15764.0,71,premium,Need Attention,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,72,premium,Need Attention,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,73,premium,Need Attention,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,74,premium,Hibernating,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,75,premium,Hibernating,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,76,premium,Hibernating,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+15764.0,77,premium,Lost/Churned,Personal Call + 30% Discount + VIP Support,36.5%,$831.32,$131.89,263.8%
+14367.0,78,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,79,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,80,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,81,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,82,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,83,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14367.0,84,premium,Promising,Personal Call + 30% Discount + VIP Support,46.7%,$646.7,$131.22,262.4%
+14907.0,85,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,86,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,87,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,88,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,89,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,90,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,91,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,92,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,93,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,94,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,95,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,96,premium,Promising,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,97,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+14907.0,98,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.0%,$773.34,$130.95,261.9%
+17706.0,99,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,100,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,101,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,102,premium,Hibernating,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,103,premium,Hibernating,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,104,premium,Promising,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,105,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,106,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,107,premium,Hibernating,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,108,premium,Promising,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,109,premium,Promising,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,110,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+17706.0,111,premium,Hibernating,Personal Call + 30% Discount + VIP Support,38.0%,$755.07,$122.22,244.4%
+14191.0,112,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,113,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,114,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,115,premium,Need Attention,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,116,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,117,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,118,premium,Hibernating,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+14191.0,119,premium,Promising,Personal Call + 30% Discount + VIP Support,46.2%,$619.8,$121.77,243.5%
+13113.0,120,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,121,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,122,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,123,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,124,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,125,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,126,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,127,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,128,premium,Need Attention,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,129,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,130,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+13113.0,131,premium,Hibernating,Personal Call + 30% Discount + VIP Support,60.4%,$435.94,$107.97,215.9%
+14849.0,132,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+14849.0,133,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+14849.0,134,premium,Promising,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+14849.0,135,premium,Promising,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+14849.0,136,premium,Promising,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+14849.0,137,premium,Promising,Personal Call + 30% Discount + VIP Support,22.0%,$1185.35,$106.5,213.0%
+15073.0,138,premium,Need Attention,Personal Call + 30% Discount + VIP Support,63.1%,$404.35,$103.01,206.0%
+15073.0,139,premium,Need Attention,Personal Call + 30% Discount + VIP Support,63.1%,$404.35,$103.01,206.0%
+15073.0,140,premium,Need Attention,Personal Call + 30% Discount + VIP Support,63.1%,$404.35,$103.01,206.0%
+15719.0,141,premium,Need Attention,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,142,premium,Need Attention,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,143,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,144,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,145,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,146,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,147,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+15719.0,148,premium,Promising,Personal Call + 30% Discount + VIP Support,16.9%,$1482.36,$100.42,200.8%
+12415.0,149,premium,Need Attention,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,150,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,151,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,152,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,153,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,154,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+12415.0,155,premium,Promising,Personal Call + 30% Discount + VIP Support,33.5%,$712.15,$93.0,186.0%
+16700.0,156,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,157,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,158,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,159,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,160,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,161,premium,Promising,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,162,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,163,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,164,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,165,premium,Promising,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,166,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,167,premium,Need Attention,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+16700.0,168,premium,Hibernating,Personal Call + 30% Discount + VIP Support,65.4%,$359.6,$91.05,182.1%
+15128.0,169,premium,Need Attention,Personal Call + 30% Discount + VIP Support,69.2%,$334.26,$88.7,177.4%
+15128.0,170,premium,Need Attention,Personal Call + 30% Discount + VIP Support,69.2%,$334.26,$88.7,177.4%
+15128.0,171,premium,Need Attention,Personal Call + 30% Discount + VIP Support,69.2%,$334.26,$88.7,177.4%
+15128.0,172,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.2%,$334.26,$88.7,177.4%
+15128.0,173,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.2%,$334.26,$88.7,177.4%
+14456.0,174,premium,Need Attention,Personal Call + 30% Discount + VIP Support,98.0%,$230.59,$85.57,171.1%
+14456.0,175,premium,Need Attention,Personal Call + 30% Discount + VIP Support,98.0%,$230.59,$85.57,171.1%
+14456.0,176,premium,Need Attention,Personal Call + 30% Discount + VIP Support,98.0%,$230.59,$85.57,171.1%
+14456.0,177,premium,Hibernating,Personal Call + 30% Discount + VIP Support,98.0%,$230.59,$85.57,171.1%
+14456.0,178,premium,Hibernating,Personal Call + 30% Discount + VIP Support,98.0%,$230.59,$85.57,171.1%
+16011.0,179,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,180,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,181,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,182,premium,Hibernating,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,183,premium,Promising,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,184,premium,Promising,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,185,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,186,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,187,premium,Hibernating,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,188,premium,Hibernating,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,189,premium,Hibernating,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+16011.0,190,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.4%,$399.07,$84.99,170.0%
+17050.0,191,premium,Need Attention,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+17050.0,192,premium,Promising,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+17050.0,193,premium,Promising,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+17050.0,194,premium,Promising,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+17050.0,195,premium,Promising,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+17050.0,196,premium,Promising,Personal Call + 30% Discount + VIP Support,32.3%,$694.36,$84.66,169.3%
+13148.0,197,premium,Need Attention,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,198,premium,Need Attention,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,199,premium,Need Attention,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,200,premium,Hibernating,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,201,premium,Hibernating,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,202,premium,Promising,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,203,premium,Need Attention,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,204,premium,Need Attention,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,205,premium,Hibernating,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,206,premium,Hibernating,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+13148.0,207,premium,Hibernating,Personal Call + 30% Discount + VIP Support,92.6%,$237.95,$82.26,164.5%
+17769.0,208,premium,Need Attention,Personal Call + 30% Discount + VIP Support,57.0%,$372.93,$77.5,155.0%
+17769.0,209,premium,Need Attention,Personal Call + 30% Discount + VIP Support,57.0%,$372.93,$77.5,155.0%
+17769.0,210,premium,Promising,Personal Call + 30% Discount + VIP Support,57.0%,$372.93,$77.5,155.0%
+15498.0,211,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,212,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,213,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,214,premium,Hibernating,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,215,premium,Hibernating,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,216,premium,Hibernating,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,217,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,218,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,219,premium,Promising,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,220,premium,Promising,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,221,premium,Promising,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+15498.0,222,premium,Promising,Personal Call + 30% Discount + VIP Support,17.8%,$1181.82,$76.28,152.6%
+14188.0,223,premium,Need Attention,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,224,premium,Need Attention,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,225,premium,Need Attention,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,226,premium,Need Attention,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,227,premium,Hibernating,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,228,premium,Hibernating,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,229,premium,Hibernating,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+14188.0,230,premium,Promising,Personal Call + 30% Discount + VIP Support,48.9%,$426.02,$74.91,149.8%
+17602.0,231,premium,Lost/Churned,Personal Call + 30% Discount + VIP Support,33.8%,$598.12,$71.12,142.2%
+17602.0,232,premium,Lost/Churned,Personal Call + 30% Discount + VIP Support,33.8%,$598.12,$71.12,142.2%
+12381.0,233,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.7%,$235.23,$68.14,136.3%
+12381.0,234,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.7%,$235.23,$68.14,136.3%
+12381.0,235,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.7%,$235.23,$68.14,136.3%
+12381.0,236,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.7%,$235.23,$68.14,136.3%
+17085.0,237,premium,Need Attention,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,238,premium,Need Attention,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,239,premium,Need Attention,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,240,premium,Promising,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,241,premium,Promising,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,242,premium,Hibernating,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,243,premium,Hibernating,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,244,premium,Hibernating,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+17085.0,245,premium,Promising,Personal Call + 30% Discount + VIP Support,44.5%,$439.91,$67.57,135.1%
+13334.0,246,premium,Need Attention,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,247,premium,Need Attention,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,248,premium,Need Attention,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,249,premium,Hibernating,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,250,premium,Hibernating,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,251,premium,Promising,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+13334.0,252,premium,Promising,Personal Call + 30% Discount + VIP Support,27.1%,$723.64,$67.47,134.9%
+15493.0,253,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.7%,$743.98,$64.79,129.6%
+15493.0,254,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.7%,$743.98,$64.79,129.6%
+15493.0,255,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.7%,$743.98,$64.79,129.6%
+15493.0,256,premium,Promising,Personal Call + 30% Discount + VIP Support,25.7%,$743.98,$64.79,129.6%
+15493.0,257,premium,Promising,Personal Call + 30% Discount + VIP Support,25.7%,$743.98,$64.79,129.6%
+14099.0,258,premium,Need Attention,Personal Call + 30% Discount + VIP Support,75.0%,$254.41,$64.5,129.0%
+14099.0,259,premium,Need Attention,Personal Call + 30% Discount + VIP Support,75.0%,$254.41,$64.5,129.0%
+14099.0,260,premium,Need Attention,Personal Call + 30% Discount + VIP Support,75.0%,$254.41,$64.5,129.0%
+14099.0,261,premium,Hibernating,Personal Call + 30% Discount + VIP Support,75.0%,$254.41,$64.5,129.0%
+13763.0,262,premium,Need Attention,Personal Call + 30% Discount + VIP Support,76.8%,$235.47,$58.56,117.1%
+13763.0,263,premium,Need Attention,Personal Call + 30% Discount + VIP Support,76.8%,$235.47,$58.56,117.1%
+13763.0,264,premium,Need Attention,Personal Call + 30% Discount + VIP Support,76.8%,$235.47,$58.56,117.1%
+13763.0,265,premium,Need Attention,Personal Call + 30% Discount + VIP Support,76.8%,$235.47,$58.56,117.1%
+13763.0,266,premium,Hibernating,Personal Call + 30% Discount + VIP Support,76.8%,$235.47,$58.56,117.1%
+17593.0,267,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.8%,$861.63,$57.61,115.2%
+17593.0,268,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.8%,$861.63,$57.61,115.2%
+17593.0,269,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.8%,$861.63,$57.61,115.2%
+14401.0,270,premium,Need Attention,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,271,premium,Need Attention,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,272,premium,Need Attention,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,273,premium,Need Attention,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,274,premium,Promising,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,275,premium,Promising,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,276,premium,Hibernating,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+14401.0,277,premium,Hibernating,Personal Call + 30% Discount + VIP Support,49.9%,$356.47,$56.76,113.5%
+18065.0,278,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,279,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,280,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,281,premium,Hibernating,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,282,premium,Hibernating,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,283,premium,Hibernating,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,284,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,285,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,286,premium,Need Attention,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,287,premium,Hibernating,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+18065.0,288,premium,Hibernating,Personal Call + 30% Discount + VIP Support,35.3%,$495.25,$54.75,109.5%
+16360.0,289,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,290,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,291,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,292,premium,Promising,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,293,premium,Promising,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,294,premium,Promising,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,295,premium,Promising,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+16360.0,296,premium,Promising,Personal Call + 30% Discount + VIP Support,56.1%,$304.59,$52.45,104.9%
+12517.0,297,premium,Need Attention,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,298,premium,Need Attention,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,299,premium,Need Attention,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,300,premium,Promising,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,301,premium,Promising,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,302,premium,Promising,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+12517.0,303,premium,Hibernating,Personal Call + 30% Discount + VIP Support,61.4%,$276.16,$51.8,103.6%
+14800.0,304,premium,Need Attention,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,305,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,306,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,307,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,308,premium,Need Attention,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,309,premium,Promising,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,310,premium,Promising,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,311,premium,Promising,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,312,premium,Promising,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,313,premium,Promising,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,314,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,315,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+14800.0,316,premium,Hibernating,Personal Call + 30% Discount + VIP Support,69.0%,$245.23,$51.54,103.1%
+13969.0,317,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,318,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,319,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,320,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,321,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,322,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,323,premium,Need Attention,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,324,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,325,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,326,premium,Promising,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,327,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13969.0,328,premium,Hibernating,Personal Call + 30% Discount + VIP Support,41.2%,$407.86,$50.94,101.9%
+13137.0,329,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,330,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,331,premium,Need Attention,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,332,premium,Promising,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,333,premium,Promising,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,334,premium,Promising,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,335,premium,Hibernating,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+13137.0,336,premium,Promising,Personal Call + 30% Discount + VIP Support,25.8%,$603.63,$43.61,87.2%
+15199.0,337,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.2%,$275.61,$42.94,85.9%
+15199.0,338,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.2%,$275.61,$42.94,85.9%
+15199.0,339,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.2%,$275.61,$42.94,85.9%
+15199.0,340,premium,Need Attention,Personal Call + 30% Discount + VIP Support,56.2%,$275.61,$42.94,85.9%
+15199.0,341,premium,Hibernating,Personal Call + 30% Discount + VIP Support,56.2%,$275.61,$42.94,85.9%
+12484.0,342,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12484.0,343,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12484.0,344,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12484.0,345,premium,Need Attention,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12484.0,346,premium,Promising,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12484.0,347,premium,Promising,Personal Call + 30% Discount + VIP Support,20.0%,$763.08,$41.75,83.5%
+12502.0,348,premium,Need Attention,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+12502.0,349,premium,Need Attention,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+12502.0,350,premium,Promising,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+12502.0,351,premium,Promising,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+12502.0,352,premium,Promising,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+12502.0,353,premium,Promising,Personal Call + 30% Discount + VIP Support,34.2%,$432.71,$38.92,77.8%
+14525.0,354,premium,Need Attention,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,355,premium,Need Attention,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,356,premium,Need Attention,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,357,premium,Hibernating,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,358,premium,Hibernating,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,359,premium,Hibernating,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,360,premium,Need Attention,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14525.0,361,premium,Need Attention,Personal Call + 30% Discount + VIP Support,37.7%,$385.6,$37.26,74.5%
+14403.0,362,premium,Need Attention,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,363,premium,Need Attention,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,364,premium,Need Attention,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,365,premium,Hibernating,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,366,premium,Hibernating,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,367,premium,Promising,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,368,premium,Need Attention,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+14403.0,369,premium,Need Attention,Personal Call + 30% Discount + VIP Support,90.8%,$158.45,$36.28,72.6%
+15291.0,370,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.5%,$349.21,$32.76,65.5%
+15291.0,371,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.5%,$349.21,$32.76,65.5%
+15291.0,372,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.5%,$349.21,$32.76,65.5%
+15291.0,373,premium,Need Attention,Personal Call + 30% Discount + VIP Support,39.5%,$349.21,$32.76,65.5%
+15291.0,374,premium,Hibernating,Personal Call + 30% Discount + VIP Support,39.5%,$349.21,$32.76,65.5%
+14713.0,375,premium,Need Attention,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,376,premium,Need Attention,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,377,premium,Need Attention,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,378,premium,Hibernating,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,379,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,380,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,381,premium,Need Attention,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,382,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,383,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,384,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,385,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+14713.0,386,premium,Promising,Personal Call + 30% Discount + VIP Support,28.0%,$491.5,$32.52,65.0%
+13327.0,387,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,388,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,389,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,390,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,391,premium,Promising,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,392,premium,Promising,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,393,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,394,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,395,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,396,premium,Hibernating,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,397,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+13327.0,398,premium,Need Attention,Personal Call + 30% Discount + VIP Support,54.4%,$249.7,$31.5,63.0%
+15704.0,399,premium,Need Attention,Personal Call + 30% Discount + VIP Support,14.7%,$921.53,$31.28,62.6%
+15704.0,400,premium,Need Attention,Personal Call + 30% Discount + VIP Support,14.7%,$921.53,$31.28,62.6%
+15704.0,401,premium,Need Attention,Personal Call + 30% Discount + VIP Support,14.7%,$921.53,$31.28,62.6%
+15704.0,402,premium,Promising,Personal Call + 30% Discount + VIP Support,14.7%,$921.53,$31.28,62.6%
+16495.0,403,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.1%,$354.85,$31.1,62.2%
+16495.0,404,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.1%,$354.85,$31.1,62.2%
+16495.0,405,premium,Need Attention,Personal Call + 30% Discount + VIP Support,38.1%,$354.85,$31.1,62.2%
+12358.0,406,premium,Need Attention,Personal Call + 30% Discount + VIP Support,58.5%,$226.16,$29.4,58.8%
+14868.0,407,premium,Need Attention,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,408,premium,Need Attention,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,409,premium,Need Attention,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,410,premium,Hibernating,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,411,premium,Hibernating,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,412,premium,Promising,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,413,premium,Need Attention,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+14868.0,414,premium,Need Attention,Personal Call + 30% Discount + VIP Support,30.7%,$428.8,$29.09,58.2%
+13384.0,415,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+13384.0,416,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+13384.0,417,premium,Need Attention,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+13384.0,418,premium,Hibernating,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+13384.0,419,premium,Hibernating,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+13384.0,420,premium,Hibernating,Personal Call + 30% Discount + VIP Support,83.6%,$156.12,$28.3,56.6%
+15044.0,421,premium,Need Attention,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,422,premium,Need Attention,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,423,premium,Need Attention,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,424,premium,Hibernating,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,425,premium,Promising,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,426,premium,Promising,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,427,premium,Need Attention,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,428,premium,Hibernating,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+15044.0,429,premium,Hibernating,Personal Call + 30% Discount + VIP Support,67.9%,$190.57,$27.59,55.2%
+17162.0,430,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,431,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,432,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,433,premium,Hibernating,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,434,premium,Hibernating,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,435,premium,Promising,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17162.0,436,premium,Need Attention,Personal Call + 30% Discount + VIP Support,22.6%,$566.93,$27.0,54.0%
+17731.0,437,premium,Need Attention,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+17731.0,438,premium,Need Attention,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+17731.0,439,premium,Need Attention,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+17731.0,440,premium,Hibernating,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+17731.0,441,premium,Hibernating,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+17731.0,442,premium,Hibernating,Personal Call + 30% Discount + VIP Support,66.6%,$192.63,$26.95,53.9%
+15150.0,443,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+15150.0,444,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+15150.0,445,premium,Need Attention,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+15150.0,446,premium,Promising,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+15150.0,447,premium,Promising,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+15150.0,448,premium,Promising,Personal Call + 30% Discount + VIP Support,17.2%,$739.83,$26.56,53.1%
+17920.0,449,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,450,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,451,standard,Hibernating,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,452,standard,Hibernating,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,453,standard,Hibernating,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,454,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,455,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,456,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,457,standard,Hibernating,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,458,standard,Promising,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,459,standard,Promising,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,460,standard,Need Attention,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+17920.0,461,standard,Promising,Email Campaign + 20% Discount,40.2%,$304.8,$24.03,96.1%
+13571.0,462,standard,Need Attention,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,463,standard,Need Attention,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,464,standard,Need Attention,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,465,standard,Promising,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,466,standard,Promising,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,467,standard,Hibernating,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,468,standard,Hibernating,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+13571.0,469,standard,Promising,Email Campaign + 20% Discount,21.9%,$558.04,$23.95,95.8%
+14688.0,470,standard,Need Attention,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,471,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,472,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,473,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,474,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,475,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,476,standard,Hibernating,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14688.0,477,standard,Promising,Email Campaign + 20% Discount,19.2%,$635.47,$23.88,95.5%
+14626.0,478,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,479,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,480,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,481,standard,Hibernating,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,482,standard,Hibernating,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,483,standard,Promising,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,484,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+14626.0,485,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$319.96,$23.43,93.7%
+17191.0,486,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,487,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,488,standard,Hibernating,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,489,standard,Hibernating,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,490,standard,Hibernating,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,491,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,492,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,493,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,494,standard,Promising,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,495,standard,Promising,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,496,standard,Promising,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,497,standard,Need Attention,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+17191.0,498,standard,Hibernating,Email Campaign + 20% Discount,31.5%,$383.31,$23.34,93.4%
+16007.0,499,standard,Need Attention,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,500,standard,Need Attention,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,501,standard,Need Attention,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,502,standard,Hibernating,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,503,standard,Hibernating,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,504,standard,Hibernating,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16007.0,505,standard,Need Attention,Email Campaign + 20% Discount,39.4%,$306.66,$23.32,93.3%
+16945.0,506,standard,Need Attention,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,507,standard,Need Attention,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,508,standard,Need Attention,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,509,standard,Hibernating,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,510,standard,Hibernating,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,511,standard,Promising,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16945.0,512,standard,Need Attention,Email Campaign + 20% Discount,18.5%,$653.31,$23.32,93.3%
+16931.0,513,standard,Need Attention,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,514,standard,Hibernating,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,515,standard,Hibernating,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,516,standard,Hibernating,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,517,standard,Need Attention,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,518,standard,Need Attention,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,519,standard,Need Attention,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,520,standard,Promising,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,521,standard,Promising,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,522,standard,Promising,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,523,standard,Hibernating,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16931.0,524,standard,Hibernating,Email Campaign + 20% Discount,37.9%,$317.21,$23.06,92.2%
+16979.0,525,standard,Need Attention,Email Campaign + 20% Discount,59.4%,$200.31,$22.61,90.4%
+16979.0,526,standard,Need Attention,Email Campaign + 20% Discount,59.4%,$200.31,$22.61,90.4%
+16979.0,527,standard,Need Attention,Email Campaign + 20% Discount,59.4%,$200.31,$22.61,90.4%
+16979.0,528,standard,Need Attention,Email Campaign + 20% Discount,59.4%,$200.31,$22.61,90.4%
+16979.0,529,standard,Hibernating,Email Campaign + 20% Discount,59.4%,$200.31,$22.61,90.4%
+12682.0,530,standard,Hibernating,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,531,standard,Hibernating,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,532,standard,Need Attention,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,533,standard,Need Attention,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,534,standard,Need Attention,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,535,standard,Hibernating,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,536,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,537,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,538,standard,Need Attention,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,539,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,540,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,541,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,542,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12682.0,543,standard,Promising,Email Campaign + 20% Discount,11.8%,$1000.16,$22.28,89.1%
+12843.0,544,standard,Need Attention,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+12843.0,545,standard,Need Attention,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+12843.0,546,standard,Need Attention,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+12843.0,547,standard,Promising,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+12843.0,548,standard,Promising,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+12843.0,549,standard,Hibernating,Email Campaign + 20% Discount,37.2%,$315.58,$21.91,87.6%
+17091.0,550,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,551,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,552,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,553,standard,Hibernating,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,554,standard,Hibernating,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,555,standard,Hibernating,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,556,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,557,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,558,standard,Need Attention,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,559,standard,Hibernating,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,560,standard,Hibernating,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,561,standard,Promising,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+17091.0,562,standard,Promising,Email Campaign + 20% Discount,18.6%,$627.38,$21.73,86.9%
+14121.0,563,standard,Need Attention,Email Campaign + 20% Discount,32.5%,$358.79,$21.69,86.8%
+14121.0,564,standard,Need Attention,Email Campaign + 20% Discount,32.5%,$358.79,$21.69,86.8%
+14121.0,565,standard,Need Attention,Email Campaign + 20% Discount,32.5%,$358.79,$21.69,86.8%
+12957.0,566,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+12957.0,567,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+12957.0,568,standard,Need Attention,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+12957.0,569,standard,Promising,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+12957.0,570,standard,Promising,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+12957.0,571,standard,Hibernating,Email Campaign + 20% Discount,37.8%,$304.25,$21.06,84.2%
+13079.0,572,standard,Need Attention,Email Campaign + 20% Discount,67.8%,$168.77,$20.76,83.0%
+13079.0,573,standard,Need Attention,Email Campaign + 20% Discount,67.8%,$168.77,$20.76,83.0%
+13079.0,574,standard,Need Attention,Email Campaign + 20% Discount,67.8%,$168.77,$20.76,83.0%
+13079.0,575,standard,Hibernating,Email Campaign + 20% Discount,67.8%,$168.77,$20.76,83.0%
+13198.0,576,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$600.19,$20.46,81.8%
+13198.0,577,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$600.19,$20.46,81.8%
+13198.0,578,standard,Promising,Email Campaign + 20% Discount,18.9%,$600.19,$20.46,81.8%
+13198.0,579,standard,Promising,Email Campaign + 20% Discount,18.9%,$600.19,$20.46,81.8%
+13198.0,580,standard,Promising,Email Campaign + 20% Discount,18.9%,$600.19,$20.46,81.8%
+14224.0,581,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$271.59,$20.42,81.7%
+17449.0,582,standard,Need Attention,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,583,standard,Need Attention,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,584,standard,Need Attention,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,585,standard,Hibernating,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,586,standard,Hibernating,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,587,standard,Promising,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,588,standard,Need Attention,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+17449.0,589,standard,Need Attention,Email Campaign + 20% Discount,26.4%,$423.03,$19.71,78.8%
+15514.0,590,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,591,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,592,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,593,standard,Hibernating,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,594,standard,Hibernating,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,595,standard,Hibernating,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,596,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,597,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,598,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,599,standard,Need Attention,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+15514.0,600,standard,Hibernating,Email Campaign + 20% Discount,41.4%,$268.36,$19.48,77.9%
+13069.0,601,standard,Need Attention,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,602,standard,Hibernating,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,603,standard,Hibernating,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,604,standard,Hibernating,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,605,standard,Need Attention,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,606,standard,Need Attention,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,607,standard,Need Attention,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,608,standard,Promising,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,609,standard,Promising,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,610,standard,Hibernating,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,611,standard,Hibernating,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+13069.0,612,standard,Promising,Email Campaign + 20% Discount,20.7%,$534.42,$19.33,77.3%
+17086.0,613,standard,Need Attention,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,614,standard,Need Attention,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,615,standard,Need Attention,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,616,standard,Need Attention,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,617,standard,Hibernating,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,618,standard,Promising,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+17086.0,619,standard,Promising,Email Campaign + 20% Discount,28.4%,$388.95,$19.14,76.6%
+16880.0,620,standard,Need Attention,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,621,standard,Need Attention,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,622,standard,Need Attention,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,623,standard,Need Attention,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,624,standard,Promising,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,625,standard,Promising,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,626,standard,Hibernating,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+16880.0,627,standard,Hibernating,Email Campaign + 20% Discount,26.8%,$410.65,$19.01,76.0%
+17813.0,628,standard,Need Attention,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,629,standard,Need Attention,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,630,standard,Need Attention,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,631,standard,Hibernating,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,632,standard,Hibernating,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,633,standard,Promising,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,634,standard,Promising,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+17813.0,635,standard,Promising,Email Campaign + 20% Discount,43.0%,$254.92,$18.81,75.2%
+15252.0,636,standard,Need Attention,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+15252.0,637,standard,Need Attention,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+15252.0,638,standard,Need Attention,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+15252.0,639,standard,Hibernating,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+15252.0,640,standard,Hibernating,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+15252.0,641,standard,Hibernating,Email Campaign + 20% Discount,68.4%,$159.93,$18.73,74.9%
+13583.0,642,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$168.73,$18.53,74.1%
+13583.0,643,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$168.73,$18.53,74.1%
+17377.0,644,standard,Need Attention,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,645,standard,Need Attention,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,646,standard,Need Attention,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,647,standard,Hibernating,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,648,standard,Promising,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,649,standard,Promising,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,650,standard,Need Attention,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,651,standard,Need Attention,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,652,standard,Promising,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,653,standard,Promising,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,654,standard,Hibernating,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17377.0,655,standard,Hibernating,Email Campaign + 20% Discount,27.8%,$391.5,$18.5,74.0%
+17975.0,656,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,657,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,658,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,659,standard,Hibernating,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,660,standard,Hibernating,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,661,standard,Hibernating,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,662,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,663,standard,Need Attention,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,664,standard,Promising,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,665,standard,Promising,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,666,standard,Promising,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,667,standard,Promising,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+17975.0,668,standard,Promising,Email Campaign + 20% Discount,18.9%,$572.86,$18.41,73.6%
+13949.0,669,standard,Need Attention,Email Campaign + 20% Discount,38.5%,$281.77,$18.37,73.5%
+13949.0,670,standard,Need Attention,Email Campaign + 20% Discount,38.5%,$281.77,$18.37,73.5%
+13949.0,671,standard,Promising,Email Campaign + 20% Discount,38.5%,$281.77,$18.37,73.5%
+13949.0,672,standard,Promising,Email Campaign + 20% Discount,38.5%,$281.77,$18.37,73.5%
+12867.0,673,standard,Need Attention,Email Campaign + 20% Discount,56.0%,$193.46,$18.33,73.3%
+12867.0,674,standard,Need Attention,Email Campaign + 20% Discount,56.0%,$193.46,$18.33,73.3%
+12867.0,675,standard,Need Attention,Email Campaign + 20% Discount,56.0%,$193.46,$18.33,73.3%
+12867.0,676,standard,Hibernating,Email Campaign + 20% Discount,56.0%,$193.46,$18.33,73.3%
+12867.0,677,standard,Hibernating,Email Campaign + 20% Discount,56.0%,$193.46,$18.33,73.3%
+12885.0,678,standard,Need Attention,Email Campaign + 20% Discount,46.3%,$233.2,$18.16,72.6%
+12885.0,679,standard,Need Attention,Email Campaign + 20% Discount,46.3%,$233.2,$18.16,72.6%
+17870.0,680,standard,Need Attention,Email Campaign + 20% Discount,49.5%,$214.38,$17.48,69.9%
+17870.0,681,standard,Need Attention,Email Campaign + 20% Discount,49.5%,$214.38,$17.48,69.9%
+14159.0,682,standard,Need Attention,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,683,standard,Need Attention,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,684,standard,Need Attention,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,685,standard,Hibernating,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,686,standard,Hibernating,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,687,standard,Promising,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,688,standard,Lost/Churned,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,689,standard,Lost/Churned,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+14159.0,690,standard,Lost/Churned,Email Campaign + 20% Discount,54.4%,$193.19,$17.04,68.1%
+15883.0,691,standard,Need Attention,Email Campaign + 20% Discount,69.3%,$150.43,$16.71,66.8%
+15883.0,692,standard,Need Attention,Email Campaign + 20% Discount,69.3%,$150.43,$16.71,66.8%
+15883.0,693,standard,Need Attention,Email Campaign + 20% Discount,69.3%,$150.43,$16.71,66.8%
+16187.0,694,standard,Need Attention,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,695,standard,Need Attention,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,696,standard,Need Attention,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,697,standard,Promising,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,698,standard,Promising,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,699,standard,Hibernating,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,700,standard,Hibernating,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+16187.0,701,standard,Promising,Email Campaign + 20% Discount,25.6%,$406.98,$16.66,66.6%
+17739.0,702,standard,Need Attention,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,703,standard,Need Attention,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,704,standard,Need Attention,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,705,standard,Hibernating,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,706,standard,Promising,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,707,standard,Promising,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,708,standard,Need Attention,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+17739.0,709,standard,Hibernating,Email Campaign + 20% Discount,53.4%,$194.4,$16.54,66.2%
+18263.0,710,standard,Need Attention,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,711,standard,Need Attention,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,712,standard,Need Attention,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,713,standard,Hibernating,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,714,standard,Hibernating,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,715,standard,Hibernating,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,716,standard,Need Attention,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+18263.0,717,standard,Need Attention,Email Campaign + 20% Discount,40.0%,$259.1,$16.43,65.7%
+17203.0,718,standard,Need Attention,Email Campaign + 20% Discount,86.9%,$118.99,$16.38,65.5%
+17203.0,719,standard,Need Attention,Email Campaign + 20% Discount,86.9%,$118.99,$16.38,65.5%
+17203.0,720,standard,Need Attention,Email Campaign + 20% Discount,86.9%,$118.99,$16.38,65.5%
+17203.0,721,standard,Hibernating,Email Campaign + 20% Discount,86.9%,$118.99,$16.38,65.5%
+17203.0,722,standard,Hibernating,Email Campaign + 20% Discount,86.9%,$118.99,$16.38,65.5%
+15034.0,723,standard,Need Attention,Email Campaign + 20% Discount,55.3%,$186.49,$16.27,65.1%
+15034.0,724,standard,Need Attention,Email Campaign + 20% Discount,55.3%,$186.49,$16.27,65.1%
+15034.0,725,standard,Need Attention,Email Campaign + 20% Discount,55.3%,$186.49,$16.27,65.1%
+15034.0,726,standard,Hibernating,Email Campaign + 20% Discount,55.3%,$186.49,$16.27,65.1%
+13772.0,727,standard,Need Attention,Email Campaign + 20% Discount,44.9%,$229.33,$16.15,64.6%
+13772.0,728,standard,Need Attention,Email Campaign + 20% Discount,44.9%,$229.33,$16.15,64.6%
+13772.0,729,standard,Promising,Email Campaign + 20% Discount,44.9%,$229.33,$16.15,64.6%
+13772.0,730,standard,Promising,Email Campaign + 20% Discount,44.9%,$229.33,$16.15,64.6%
+13772.0,731,standard,Promising,Email Campaign + 20% Discount,44.9%,$229.33,$16.15,64.6%
+17183.0,732,standard,Need Attention,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,733,standard,Need Attention,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,734,standard,Need Attention,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,735,standard,Hibernating,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,736,standard,Hibernating,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,737,standard,Promising,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+17183.0,738,standard,Need Attention,Email Campaign + 20% Discount,24.1%,$422.13,$15.62,62.5%
+12627.0,739,standard,Need Attention,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,740,standard,Need Attention,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,741,standard,Promising,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,742,standard,Promising,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,743,standard,Promising,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,744,standard,Promising,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12627.0,745,standard,Promising,Email Campaign + 20% Discount,22.5%,$446.06,$15.07,60.3%
+12362.0,746,standard,Need Attention,Email Campaign + 20% Discount,17.5%,$568.71,$14.87,59.5%
+12362.0,747,standard,Need Attention,Email Campaign + 20% Discount,17.5%,$568.71,$14.87,59.5%
+12362.0,748,standard,Need Attention,Email Campaign + 20% Discount,17.5%,$568.71,$14.87,59.5%
+12362.0,749,standard,Promising,Email Campaign + 20% Discount,17.5%,$568.71,$14.87,59.5%
+12362.0,750,standard,Promising,Email Campaign + 20% Discount,17.5%,$568.71,$14.87,59.5%
+17368.0,751,standard,Need Attention,Email Campaign + 20% Discount,46.8%,$210.59,$14.41,57.6%
+17368.0,752,standard,Need Attention,Email Campaign + 20% Discount,46.8%,$210.59,$14.41,57.6%
+17368.0,753,standard,Need Attention,Email Campaign + 20% Discount,46.8%,$210.59,$14.41,57.6%
+18283.0,754,standard,Need Attention,Email Campaign + 20% Discount,89.9%,$109.28,$14.28,57.1%
+18283.0,755,standard,Need Attention,Email Campaign + 20% Discount,89.9%,$109.28,$14.28,57.1%
+18283.0,756,standard,Need Attention,Email Campaign + 20% Discount,89.9%,$109.28,$14.28,57.1%
+18283.0,757,standard,Promising,Email Campaign + 20% Discount,89.9%,$109.28,$14.28,57.1%
+13925.0,758,standard,Need Attention,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13925.0,759,standard,Need Attention,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13925.0,760,standard,Need Attention,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13925.0,761,standard,Hibernating,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13925.0,762,standard,Hibernating,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13925.0,763,standard,Hibernating,Email Campaign + 20% Discount,29.1%,$336.12,$14.16,56.6%
+13365.0,764,standard,Need Attention,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,765,standard,Need Attention,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,766,standard,Need Attention,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,767,standard,Hibernating,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,768,standard,Hibernating,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,769,standard,Promising,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,770,standard,Promising,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+13365.0,771,standard,Promising,Email Campaign + 20% Discount,24.8%,$391.68,$13.9,55.6%
+16103.0,772,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,773,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,774,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,775,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,776,standard,Promising,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,777,standard,Hibernating,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16103.0,778,standard,Hibernating,Email Campaign + 20% Discount,47.3%,$205.11,$13.78,55.1%
+16711.0,779,standard,Need Attention,Email Campaign + 20% Discount,72.7%,$131.63,$13.28,53.1%
+16711.0,780,standard,Need Attention,Email Campaign + 20% Discount,72.7%,$131.63,$13.28,53.1%
+16711.0,781,standard,Need Attention,Email Campaign + 20% Discount,72.7%,$131.63,$13.28,53.1%
+17481.0,782,standard,Need Attention,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+17481.0,783,standard,Need Attention,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+17481.0,784,standard,Need Attention,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+17481.0,785,standard,Need Attention,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+17481.0,786,standard,Promising,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+17481.0,787,standard,Promising,Email Campaign + 20% Discount,22.7%,$418.59,$12.95,51.8%
+15416.0,788,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,789,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,790,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,791,standard,Hibernating,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,792,standard,Promising,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,793,standard,Promising,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15416.0,794,standard,Promising,Email Campaign + 20% Discount,20.8%,$455.93,$12.85,51.4%
+15114.0,795,standard,Need Attention,Email Campaign + 20% Discount,19.9%,$474.25,$12.69,50.8%
+15114.0,796,standard,Need Attention,Email Campaign + 20% Discount,19.9%,$474.25,$12.69,50.8%
+15114.0,797,standard,Need Attention,Email Campaign + 20% Discount,19.9%,$474.25,$12.69,50.8%
+13004.0,798,standard,Need Attention,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,799,standard,Need Attention,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,800,standard,Need Attention,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,801,standard,Need Attention,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,802,standard,Hibernating,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,803,standard,Promising,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+13004.0,804,standard,Promising,Email Campaign + 20% Discount,9.5%,$993.3,$12.6,50.4%
+15601.0,805,standard,Hibernating,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,806,standard,Need Attention,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,807,standard,Need Attention,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,808,standard,Need Attention,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,809,standard,Hibernating,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,810,standard,Hibernating,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,811,standard,Hibernating,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,812,standard,Need Attention,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15601.0,813,standard,Need Attention,Email Campaign + 20% Discount,35.5%,$261.44,$12.15,48.6%
+15671.0,814,standard,Need Attention,Email Campaign + 20% Discount,63.2%,$146.78,$12.11,48.5%
+15671.0,815,standard,Need Attention,Email Campaign + 20% Discount,63.2%,$146.78,$12.11,48.5%
+15671.0,816,standard,Need Attention,Email Campaign + 20% Discount,63.2%,$146.78,$12.11,48.5%
+15671.0,817,standard,Hibernating,Email Campaign + 20% Discount,63.2%,$146.78,$12.11,48.5%
+17284.0,818,standard,Need Attention,Email Campaign + 20% Discount,53.5%,$173.32,$12.08,48.3%
+17284.0,819,standard,Need Attention,Email Campaign + 20% Discount,53.5%,$173.32,$12.08,48.3%
+17700.0,820,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,821,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,822,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,823,standard,Hibernating,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,824,standard,Hibernating,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,825,standard,Hibernating,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,826,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,827,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,828,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,829,standard,Promising,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,830,standard,Promising,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+17700.0,831,standard,Need Attention,Email Campaign + 20% Discount,49.1%,$188.73,$12.05,48.2%
+15628.0,832,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,833,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,834,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,835,standard,Hibernating,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,836,standard,Hibernating,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,837,standard,Hibernating,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,838,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,839,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,840,standard,Need Attention,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,841,standard,Promising,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,842,standard,Promising,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,843,standard,Promising,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+15628.0,844,standard,Hibernating,Email Campaign + 20% Discount,20.8%,$444.15,$11.95,47.8%
+12955.0,845,standard,Need Attention,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,846,standard,Promising,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,847,standard,Need Attention,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,848,standard,Promising,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,849,standard,Promising,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,850,standard,Promising,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,851,standard,Hibernating,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+12955.0,852,standard,Promising,Email Campaign + 20% Discount,23.0%,$401.57,$11.89,47.6%
+18092.0,853,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,854,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,855,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,856,standard,Hibernating,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,857,standard,Promising,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,858,standard,Promising,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,859,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,860,standard,Hibernating,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,861,standard,Hibernating,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,862,standard,Hibernating,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,863,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+18092.0,864,standard,Need Attention,Email Campaign + 20% Discount,14.2%,$640.24,$11.26,45.1%
+17629.0,865,standard,Need Attention,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+17629.0,866,standard,Promising,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+17629.0,867,standard,Need Attention,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+17629.0,868,standard,Promising,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+17629.0,869,standard,Hibernating,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+17629.0,870,standard,Hibernating,Email Campaign + 20% Discount,48.9%,$183.92,$10.97,43.9%
+16626.0,871,standard,Need Attention,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,872,standard,Need Attention,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,873,standard,Need Attention,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,874,standard,Need Attention,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,875,standard,Hibernating,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,876,standard,Hibernating,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+16626.0,877,standard,Promising,Email Campaign + 20% Discount,17.8%,$504.18,$10.81,43.3%
+17744.0,878,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+17744.0,879,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+17744.0,880,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+17744.0,881,standard,Promising,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+17744.0,882,standard,Promising,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+17744.0,883,standard,Hibernating,Email Campaign + 20% Discount,46.5%,$191.78,$10.7,42.8%
+13700.0,884,standard,Need Attention,Email Campaign + 20% Discount,61.8%,$144.33,$10.67,42.7%
+17965.0,885,standard,Need Attention,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,886,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,887,standard,Need Attention,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,888,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,889,standard,Need Attention,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,890,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,891,standard,Promising,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,892,standard,Promising,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,893,standard,Need Attention,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,894,standard,Promising,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,895,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,896,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,897,standard,Hibernating,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+17965.0,898,standard,Need Attention,Email Campaign + 20% Discount,49.0%,$181.51,$10.61,42.4%
+15021.0,899,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,900,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,901,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,902,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,903,standard,Hibernating,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,904,standard,Hibernating,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,905,standard,Promising,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,906,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,907,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,908,standard,Hibernating,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,909,standard,Promising,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,910,standard,Promising,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,911,standard,Need Attention,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+15021.0,912,standard,Hibernating,Email Campaign + 20% Discount,40.7%,$215.51,$10.05,40.2%
+12481.0,913,standard,Need Attention,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,914,standard,Need Attention,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,915,standard,Need Attention,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,916,standard,Hibernating,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,917,standard,Hibernating,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,918,standard,Hibernating,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,919,standard,Need Attention,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,920,standard,Need Attention,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,921,standard,Promising,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+12481.0,922,standard,Promising,Email Campaign + 20% Discount,28.0%,$312.39,$10.02,40.1%
+16153.0,923,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$182.58,$9.55,38.2%
+16153.0,924,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$182.58,$9.55,38.2%
+16153.0,925,standard,Need Attention,Email Campaign + 20% Discount,47.3%,$182.58,$9.55,38.2%
+14194.0,926,standard,Need Attention,Email Campaign + 20% Discount,34.3%,$249.38,$9.17,36.7%
+14194.0,927,standard,Need Attention,Email Campaign + 20% Discount,34.3%,$249.38,$9.17,36.7%
+14194.0,928,standard,Need Attention,Email Campaign + 20% Discount,34.3%,$249.38,$9.17,36.7%
+14194.0,929,standard,Hibernating,Email Campaign + 20% Discount,34.3%,$249.38,$9.17,36.7%
+14194.0,930,standard,Hibernating,Email Campaign + 20% Discount,34.3%,$249.38,$9.17,36.7%
+17188.0,931,standard,Need Attention,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,932,standard,Need Attention,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,933,standard,Need Attention,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,934,standard,Hibernating,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,935,standard,Promising,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,936,standard,Promising,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,937,standard,Need Attention,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,938,standard,Hibernating,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17188.0,939,standard,Hibernating,Email Campaign + 20% Discount,67.3%,$126.64,$9.09,36.4%
+17883.0,940,standard,Need Attention,Email Campaign + 20% Discount,72.0%,$117.95,$8.98,35.9%
+17883.0,941,standard,Need Attention,Email Campaign + 20% Discount,72.0%,$117.95,$8.98,35.9%
+17883.0,942,standard,Need Attention,Email Campaign + 20% Discount,72.0%,$117.95,$8.98,35.9%
+17676.0,943,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,944,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,945,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,946,standard,Hibernating,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,947,standard,Hibernating,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,948,standard,Promising,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,949,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,950,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,951,standard,Hibernating,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,952,standard,Promising,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,953,standard,Hibernating,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,954,standard,Need Attention,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17676.0,955,standard,Hibernating,Email Campaign + 20% Discount,67.5%,$125.79,$8.98,35.9%
+17042.0,956,standard,Need Attention,Email Campaign + 20% Discount,23.1%,$366.88,$8.97,35.9%
+17042.0,957,standard,Need Attention,Email Campaign + 20% Discount,23.1%,$366.88,$8.97,35.9%
+17042.0,958,standard,Need Attention,Email Campaign + 20% Discount,23.1%,$366.88,$8.97,35.9%
+17410.0,959,standard,Need Attention,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,960,standard,Need Attention,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,961,standard,Need Attention,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,962,standard,Need Attention,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,963,standard,Hibernating,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,964,standard,Hibernating,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+17410.0,965,standard,Need Attention,Email Campaign + 20% Discount,20.3%,$415.48,$8.75,35.0%
+14553.0,966,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$179.83,$8.43,33.7%
+14553.0,967,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$179.83,$8.43,33.7%
+14553.0,968,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$179.83,$8.43,33.7%
+14553.0,969,standard,Need Attention,Email Campaign + 20% Discount,46.5%,$179.83,$8.43,33.7%
+14553.0,970,standard,Hibernating,Email Campaign + 20% Discount,46.5%,$179.83,$8.43,33.7%
+17512.0,971,standard,Need Attention,Email Campaign + 20% Discount,34.2%,$242.02,$8.12,32.5%
+17512.0,972,standard,Need Attention,Email Campaign + 20% Discount,34.2%,$242.02,$8.12,32.5%
+17512.0,973,standard,Need Attention,Email Campaign + 20% Discount,34.2%,$242.02,$8.12,32.5%
+17512.0,974,standard,Need Attention,Email Campaign + 20% Discount,34.2%,$242.02,$8.12,32.5%
+14395.0,975,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,976,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,977,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,978,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,979,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,980,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,981,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,982,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+14395.0,983,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$278.16,$8.09,32.4%
+13426.0,984,standard,Need Attention,Email Campaign + 20% Discount,31.0%,$264.75,$7.81,31.2%
+13426.0,985,standard,Need Attention,Email Campaign + 20% Discount,31.0%,$264.75,$7.81,31.2%
+13426.0,986,standard,Need Attention,Email Campaign + 20% Discount,31.0%,$264.75,$7.81,31.2%
+12645.0,987,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,988,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,989,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,990,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,991,standard,Hibernating,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,992,standard,Promising,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,993,standard,Need Attention,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+12645.0,994,standard,Hibernating,Email Campaign + 20% Discount,41.8%,$194.79,$7.53,30.1%
+17049.0,995,standard,Need Attention,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,996,standard,Need Attention,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,997,standard,Need Attention,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,998,standard,Hibernating,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,999,standard,Promising,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,1000,standard,Promising,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,1001,standard,Promising,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+17049.0,1002,standard,Promising,Email Campaign + 20% Discount,14.8%,$545.26,$7.19,28.8%
+15993.0,1003,standard,Need Attention,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1004,standard,Need Attention,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1005,standard,Need Attention,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1006,standard,Hibernating,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1007,standard,Hibernating,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1008,standard,Promising,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1009,standard,Need Attention,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+15993.0,1010,standard,Need Attention,Email Campaign + 20% Discount,37.4%,$215.11,$7.19,28.8%
+13808.0,1011,standard,Need Attention,Email Campaign + 20% Discount,12.2%,$657.46,$7.16,28.7%
+13808.0,1012,standard,Promising,Email Campaign + 20% Discount,12.2%,$657.46,$7.16,28.7%
+13808.0,1013,standard,Promising,Email Campaign + 20% Discount,12.2%,$657.46,$7.16,28.7%
+13808.0,1014,standard,Promising,Email Campaign + 20% Discount,12.2%,$657.46,$7.16,28.7%
+13808.0,1015,standard,Promising,Email Campaign + 20% Discount,12.2%,$657.46,$7.16,28.7%
+14315.0,1016,standard,Need Attention,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1017,standard,Need Attention,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1018,standard,Need Attention,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1019,standard,Hibernating,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1020,standard,Hibernating,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1021,standard,Hibernating,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1022,standard,Hibernating,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+14315.0,1023,standard,Need Attention,Email Campaign + 20% Discount,41.6%,$193.05,$7.16,28.6%
+12757.0,1024,standard,Need Attention,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+12757.0,1025,standard,Need Attention,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+12757.0,1026,standard,Need Attention,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+12757.0,1027,standard,Promising,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+12757.0,1028,standard,Promising,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+12757.0,1029,standard,Promising,Email Campaign + 20% Discount,9.3%,$862.84,$7.09,28.4%
+16904.0,1030,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1031,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1032,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1033,standard,Hibernating,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1034,standard,Hibernating,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1035,standard,Hibernating,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1036,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1037,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1038,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1039,standard,Hibernating,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1040,standard,Promising,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1041,standard,Promising,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1042,standard,Need Attention,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+16904.0,1043,standard,Hibernating,Email Campaign + 20% Discount,64.5%,$124.33,$7.09,28.3%
+15971.0,1044,standard,Need Attention,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+15971.0,1045,standard,Need Attention,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+15971.0,1046,standard,Need Attention,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+15971.0,1047,standard,Need Attention,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+15971.0,1048,standard,Hibernating,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+15971.0,1049,standard,Hibernating,Email Campaign + 20% Discount,50.8%,$155.26,$6.53,26.1%
+16558.0,1050,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1051,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1052,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1053,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1054,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1055,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1056,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1057,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1058,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1059,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1060,standard,Hibernating,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1061,standard,Promising,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16558.0,1062,standard,Need Attention,Email Campaign + 20% Discount,29.7%,$265.55,$6.51,26.0%
+16767.0,1063,standard,Need Attention,Email Campaign + 20% Discount,13.3%,$590.46,$6.48,25.9%
+16767.0,1064,standard,Need Attention,Email Campaign + 20% Discount,13.3%,$590.46,$6.48,25.9%
+16767.0,1065,standard,Need Attention,Email Campaign + 20% Discount,13.3%,$590.46,$6.48,25.9%
+16767.0,1066,standard,Promising,Email Campaign + 20% Discount,13.3%,$590.46,$6.48,25.9%
+16767.0,1067,standard,Promising,Email Campaign + 20% Discount,13.3%,$590.46,$6.48,25.9%
+17827.0,1068,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1069,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1070,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1071,standard,Hibernating,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1072,standard,Hibernating,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1073,standard,Hibernating,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1074,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1075,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1076,standard,Need Attention,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1077,standard,Hibernating,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+17827.0,1078,standard,Hibernating,Email Campaign + 20% Discount,80.8%,$96.82,$6.29,25.2%
+12477.0,1079,standard,Need Attention,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1080,standard,Need Attention,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1081,standard,Need Attention,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1082,standard,Hibernating,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1083,standard,Hibernating,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1084,standard,Hibernating,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1085,standard,Need Attention,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12477.0,1086,standard,Need Attention,Email Campaign + 20% Discount,29.3%,$266.79,$6.23,24.9%
+12910.0,1087,standard,Need Attention,Email Campaign + 20% Discount,38.2%,$203.55,$6.11,24.4%
+12910.0,1088,standard,Need Attention,Email Campaign + 20% Discount,38.2%,$203.55,$6.11,24.4%
+12910.0,1089,standard,Need Attention,Email Campaign + 20% Discount,38.2%,$203.55,$6.11,24.4%
+16358.0,1090,standard,Need Attention,Email Campaign + 20% Discount,55.3%,$139.08,$5.79,23.2%
+16358.0,1091,standard,Promising,Email Campaign + 20% Discount,55.3%,$139.08,$5.79,23.2%
+16732.0,1092,standard,Need Attention,Email Campaign + 20% Discount,46.2%,$165.58,$5.63,22.5%
+15572.0,1093,standard,Need Attention,Email Campaign + 20% Discount,86.7%,$87.43,$5.32,21.3%
+15572.0,1094,standard,Need Attention,Email Campaign + 20% Discount,86.7%,$87.43,$5.32,21.3%
+15572.0,1095,standard,Need Attention,Email Campaign + 20% Discount,86.7%,$87.43,$5.32,21.3%
+15572.0,1096,standard,Hibernating,Email Campaign + 20% Discount,86.7%,$87.43,$5.32,21.3%
+12836.0,1097,standard,Need Attention,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1098,standard,Need Attention,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1099,standard,Need Attention,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1100,standard,Promising,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1101,standard,Promising,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1102,standard,Promising,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1103,standard,Hibernating,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+12836.0,1104,standard,Hibernating,Email Campaign + 20% Discount,82.9%,$91.28,$5.25,21.0%
+17068.0,1105,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1106,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1107,light,Hibernating,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1108,light,Hibernating,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1109,light,Hibernating,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1110,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1111,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1112,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1113,light,Need Attention,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1114,light,Hibernating,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1115,light,Promising,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1116,light,Promising,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+17068.0,1117,light,Hibernating,Automated Email + 10% Discount,32.5%,$230.14,$4.95,49.5%
+13458.0,1118,light,Need Attention,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1119,light,Need Attention,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1120,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1121,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1122,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1123,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1124,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+13458.0,1125,light,Promising,Automated Email + 10% Discount,2.7%,$2781.01,$4.83,48.3%
+17220.0,1126,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1127,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1128,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1129,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1130,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1131,light,Hibernating,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1132,light,Hibernating,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1133,light,Promising,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1134,light,Promising,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1135,light,Need Attention,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+17220.0,1136,light,Hibernating,Automated Email + 10% Discount,30.2%,$243.63,$4.73,47.3%
+15187.0,1137,light,Need Attention,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1138,light,Need Attention,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1139,light,Need Attention,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1140,light,Promising,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1141,light,Promising,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1142,light,Hibernating,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1143,light,Hibernating,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+15187.0,1144,light,Need Attention,Automated Email + 10% Discount,21.2%,$344.97,$4.63,46.3%
+14051.0,1145,light,Need Attention,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1146,light,Need Attention,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1147,light,Need Attention,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1148,light,Hibernating,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1149,light,Hibernating,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1150,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1151,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1152,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1153,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1154,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1155,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1156,light,Promising,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14051.0,1157,light,Need Attention,Automated Email + 10% Discount,4.5%,$1601.28,$4.54,45.4%
+14107.0,1158,light,Need Attention,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1159,light,Need Attention,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1160,light,Need Attention,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1161,light,Hibernating,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1162,light,Hibernating,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1163,light,Promising,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1164,light,Need Attention,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1165,light,Need Attention,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1166,light,Hibernating,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1167,light,Hibernating,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+14107.0,1168,light,Hibernating,Automated Email + 10% Discount,78.9%,$91.96,$4.52,45.2%
+15785.0,1169,light,Need Attention,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1170,light,Need Attention,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1171,light,Need Attention,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1172,light,Need Attention,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1173,light,Hibernating,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1174,light,Promising,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+15785.0,1175,light,Need Attention,Automated Email + 10% Discount,26.2%,$276.42,$4.48,44.8%
+18178.0,1176,light,Need Attention,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1177,light,Need Attention,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1178,light,Need Attention,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1179,light,Hibernating,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1180,light,Hibernating,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1181,light,Promising,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1182,light,Promising,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1183,light,Promising,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1184,light,Promising,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1185,light,Hibernating,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18178.0,1186,light,Hibernating,Automated Email + 10% Discount,70.7%,$102.38,$4.47,44.7%
+18272.0,1187,light,Need Attention,Automated Email + 10% Discount,25.3%,$284.58,$4.42,44.2%
+18272.0,1188,light,Need Attention,Automated Email + 10% Discount,25.3%,$284.58,$4.42,44.2%
+16729.0,1189,light,Lost/Churned,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1190,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1191,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1192,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1193,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1194,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1195,light,Promising,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+16729.0,1196,light,Hibernating,Automated Email + 10% Discount,10.6%,$665.61,$4.16,41.6%
+14085.0,1197,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1198,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1199,light,Hibernating,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1200,light,Hibernating,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1201,light,Hibernating,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1202,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1203,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1204,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1205,light,Hibernating,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1206,light,Hibernating,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1207,light,Promising,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14085.0,1208,light,Need Attention,Automated Email + 10% Discount,36.7%,$190.42,$3.97,39.7%
+14262.0,1209,light,Need Attention,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1210,light,Need Attention,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1211,light,Need Attention,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1212,light,Hibernating,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1213,light,Promising,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1214,light,Hibernating,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1215,light,Need Attention,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+14262.0,1216,light,Hibernating,Automated Email + 10% Discount,55.5%,$125.13,$3.88,38.8%
+15570.0,1217,light,Need Attention,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1218,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1219,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1220,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1221,light,Need Attention,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1222,light,Need Attention,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1223,light,Need Attention,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1224,light,Promising,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1225,light,Promising,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1226,light,Promising,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1227,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1228,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+15570.0,1229,light,Hibernating,Automated Email + 10% Discount,85.5%,$81.08,$3.87,38.7%
+12637.0,1230,light,Need Attention,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+12637.0,1231,light,Need Attention,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+12637.0,1232,light,Promising,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+12637.0,1233,light,Promising,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+12637.0,1234,light,Promising,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+12637.0,1235,light,Promising,Automated Email + 10% Discount,2.8%,$2456.92,$3.87,38.7%
+13178.0,1236,light,Need Attention,Automated Email + 10% Discount,22.3%,$310.14,$3.86,38.6%
+13178.0,1237,light,Need Attention,Automated Email + 10% Discount,22.3%,$310.14,$3.86,38.6%
+13178.0,1238,light,Need Attention,Automated Email + 10% Discount,22.3%,$310.14,$3.86,38.6%
+13178.0,1239,light,Hibernating,Automated Email + 10% Discount,22.3%,$310.14,$3.86,38.6%
+13178.0,1240,light,Promising,Automated Email + 10% Discount,22.3%,$310.14,$3.86,38.6%
+17442.0,1241,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1242,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1243,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1244,light,Hibernating,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1245,light,Hibernating,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1246,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1247,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1248,light,Need Attention,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1249,light,Hibernating,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1250,light,Hibernating,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1251,light,Promising,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+17442.0,1252,light,Promising,Automated Email + 10% Discount,12.7%,$545.85,$3.81,38.1%
+16788.0,1253,light,Need Attention,Automated Email + 10% Discount,32.7%,$207.28,$3.56,35.6%
+16156.0,1254,light,Need Attention,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1255,light,Need Attention,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1256,light,Need Attention,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1257,light,Hibernating,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1258,light,Hibernating,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1259,light,Hibernating,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1260,light,Promising,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+16156.0,1261,light,Need Attention,Automated Email + 10% Discount,40.1%,$168.61,$3.52,35.2%
+12615.0,1262,light,Need Attention,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+12615.0,1263,light,Need Attention,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+12615.0,1264,light,Need Attention,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+12615.0,1265,light,Hibernating,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+12615.0,1266,light,Promising,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+12615.0,1267,light,Promising,Automated Email + 10% Discount,18.2%,$368.46,$3.45,34.5%
+16434.0,1268,light,Need Attention,Automated Email + 10% Discount,42.6%,$156.69,$3.34,33.4%
+16434.0,1269,light,Need Attention,Automated Email + 10% Discount,42.6%,$156.69,$3.34,33.4%
+16434.0,1270,light,Need Attention,Automated Email + 10% Discount,42.6%,$156.69,$3.34,33.4%
+16434.0,1271,light,Need Attention,Automated Email + 10% Discount,42.6%,$156.69,$3.34,33.4%
+16434.0,1272,light,Hibernating,Automated Email + 10% Discount,42.6%,$156.69,$3.34,33.4%
+18102.0,1273,light,Need Attention,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1274,light,Need Attention,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1275,light,Need Attention,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1276,light,Hibernating,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1277,light,Hibernating,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1278,light,Hibernating,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1279,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1280,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1281,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1282,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1283,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+18102.0,1284,light,Promising,Automated Email + 10% Discount,18.3%,$363.46,$3.33,33.3%
+14140.0,1285,light,Need Attention,Automated Email + 10% Discount,26.8%,$247.37,$3.27,32.7%
+14140.0,1286,light,Need Attention,Automated Email + 10% Discount,26.8%,$247.37,$3.27,32.7%
+14140.0,1287,light,Need Attention,Automated Email + 10% Discount,26.8%,$247.37,$3.27,32.7%
+17001.0,1288,light,Need Attention,Automated Email + 10% Discount,13.8%,$481.22,$3.25,32.5%
+17001.0,1289,light,Need Attention,Automated Email + 10% Discount,13.8%,$481.22,$3.25,32.5%
+17001.0,1290,light,Need Attention,Automated Email + 10% Discount,13.8%,$481.22,$3.25,32.5%
+17001.0,1291,light,Hibernating,Automated Email + 10% Discount,13.8%,$481.22,$3.25,32.5%
+17001.0,1292,light,Promising,Automated Email + 10% Discount,13.8%,$481.22,$3.25,32.5%
+17613.0,1293,light,Need Attention,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1294,light,Need Attention,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1295,light,Need Attention,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1296,light,Hibernating,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1297,light,Hibernating,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1298,light,Hibernating,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1299,light,Need Attention,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17613.0,1300,light,Need Attention,Automated Email + 10% Discount,27.5%,$240.81,$3.25,32.5%
+17648.0,1301,light,Need Attention,Automated Email + 10% Discount,80.1%,$82.56,$3.23,32.3%
+17648.0,1302,light,Need Attention,Automated Email + 10% Discount,80.1%,$82.56,$3.23,32.3%
+17648.0,1303,light,Need Attention,Automated Email + 10% Discount,80.1%,$82.56,$3.23,32.3%
+17648.0,1304,light,Hibernating,Automated Email + 10% Discount,80.1%,$82.56,$3.23,32.3%
+17648.0,1305,light,Hibernating,Automated Email + 10% Discount,80.1%,$82.56,$3.23,32.3%
+16515.0,1306,light,Need Attention,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1307,light,Need Attention,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1308,light,Need Attention,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1309,light,Hibernating,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1310,light,Hibernating,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1311,light,Hibernating,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1312,light,Need Attention,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16515.0,1313,light,Need Attention,Automated Email + 10% Discount,30.3%,$218.55,$3.22,32.2%
+16592.0,1314,light,Need Attention,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1315,light,Need Attention,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1316,light,Need Attention,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1317,light,Hibernating,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1318,light,Promising,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1319,light,Promising,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1320,light,Need Attention,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+16592.0,1321,light,Hibernating,Automated Email + 10% Discount,37.4%,$176.5,$3.21,32.1%
+14515.0,1322,light,Need Attention,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1323,light,Need Attention,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1324,light,Need Attention,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1325,light,Promising,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1326,light,Promising,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1327,light,Promising,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1328,light,Hibernating,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14515.0,1329,light,Hibernating,Automated Email + 10% Discount,49.6%,$133.02,$3.2,32.0%
+14623.0,1330,light,Need Attention,Automated Email + 10% Discount,59.9%,$109.96,$3.18,31.8%
+14623.0,1331,light,Need Attention,Automated Email + 10% Discount,59.9%,$109.96,$3.18,31.8%
+14623.0,1332,light,Need Attention,Automated Email + 10% Discount,59.9%,$109.96,$3.18,31.8%
+15227.0,1333,light,Need Attention,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+15227.0,1334,light,Need Attention,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+15227.0,1335,light,Need Attention,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+15227.0,1336,light,Hibernating,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+15227.0,1337,light,Hibernating,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+15227.0,1338,light,Promising,Automated Email + 10% Discount,21.6%,$304.89,$3.15,31.5%
+14738.0,1339,light,Need Attention,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1340,light,Need Attention,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1341,light,Need Attention,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1342,light,Hibernating,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1343,light,Hibernating,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1344,light,Promising,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1345,light,Need Attention,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+14738.0,1346,light,Need Attention,Automated Email + 10% Discount,75.5%,$86.91,$3.13,31.3%
+13419.0,1347,light,Need Attention,Automated Email + 10% Discount,32.5%,$201.22,$3.09,30.9%
+13419.0,1348,light,Need Attention,Automated Email + 10% Discount,32.5%,$201.22,$3.09,30.9%
+13314.0,1349,light,Need Attention,Automated Email + 10% Discount,50.8%,$127.67,$2.97,29.7%
+13314.0,1350,light,Need Attention,Automated Email + 10% Discount,50.8%,$127.67,$2.97,29.7%
+12947.0,1351,light,Need Attention,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1352,light,Need Attention,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1353,light,Need Attention,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1354,light,Need Attention,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1355,light,Hibernating,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1356,light,Hibernating,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1357,light,Need Attention,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+12947.0,1358,light,Hibernating,Automated Email + 10% Discount,24.2%,$267.24,$2.96,29.6%
+15136.0,1359,light,Need Attention,Automated Email + 10% Discount,30.8%,$209.93,$2.94,29.4%
+15136.0,1360,light,Need Attention,Automated Email + 10% Discount,30.8%,$209.93,$2.94,29.4%
+15136.0,1361,light,Need Attention,Automated Email + 10% Discount,30.8%,$209.93,$2.94,29.4%
+15136.0,1362,light,Promising,Automated Email + 10% Discount,30.8%,$209.93,$2.94,29.4%
+15136.0,1363,light,Promising,Automated Email + 10% Discount,30.8%,$209.93,$2.94,29.4%
+13139.0,1364,light,Need Attention,Automated Email + 10% Discount,8.6%,$751.71,$2.87,28.7%
+13139.0,1365,light,Promising,Automated Email + 10% Discount,8.6%,$751.71,$2.87,28.7%
+14116.0,1366,light,Need Attention,Automated Email + 10% Discount,36.1%,$177.61,$2.84,28.4%
+14116.0,1367,light,Need Attention,Automated Email + 10% Discount,36.1%,$177.61,$2.84,28.4%
+14116.0,1368,light,Need Attention,Automated Email + 10% Discount,36.1%,$177.61,$2.84,28.4%
+17364.0,1369,light,Need Attention,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1370,light,Need Attention,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1371,light,Need Attention,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1372,light,Hibernating,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1373,light,Promising,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1374,light,Promising,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+17364.0,1375,light,Need Attention,Automated Email + 10% Discount,26.1%,$245.37,$2.8,28.0%
+14720.0,1376,light,Need Attention,Automated Email + 10% Discount,87.2%,$73.28,$2.78,27.8%
+14720.0,1377,light,Need Attention,Automated Email + 10% Discount,87.2%,$73.28,$2.78,27.8%
+14720.0,1378,light,Need Attention,Automated Email + 10% Discount,87.2%,$73.28,$2.78,27.8%
+14720.0,1379,light,Hibernating,Automated Email + 10% Discount,87.2%,$73.28,$2.78,27.8%
+14720.0,1380,light,Hibernating,Automated Email + 10% Discount,87.2%,$73.28,$2.78,27.8%
+14530.0,1381,light,Need Attention,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14530.0,1382,light,Need Attention,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14530.0,1383,light,Need Attention,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14530.0,1384,light,Hibernating,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14530.0,1385,light,Promising,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14530.0,1386,light,Promising,Automated Email + 10% Discount,6.7%,$955.57,$2.75,27.5%
+14895.0,1387,light,Need Attention,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1388,light,Need Attention,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1389,light,Promising,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1390,light,Promising,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1391,light,Promising,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1392,light,Hibernating,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14895.0,1393,light,Hibernating,Automated Email + 10% Discount,57.5%,$110.57,$2.71,27.1%
+14700.0,1394,light,Need Attention,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+14700.0,1395,light,Need Attention,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+14700.0,1396,light,Need Attention,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+14700.0,1397,light,Hibernating,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+14700.0,1398,light,Promising,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+14700.0,1399,light,Promising,Automated Email + 10% Discount,13.1%,$483.1,$2.68,26.8%
+13344.0,1400,light,Need Attention,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13344.0,1401,light,Need Attention,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13344.0,1402,light,Need Attention,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13344.0,1403,light,Hibernating,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13344.0,1404,light,Promising,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13344.0,1405,light,Promising,Automated Email + 10% Discount,7.6%,$831.92,$2.67,26.7%
+13743.0,1406,light,Need Attention,Automated Email + 10% Discount,54.5%,$116.34,$2.67,26.7%
+13743.0,1407,light,Need Attention,Automated Email + 10% Discount,54.5%,$116.34,$2.67,26.7%
+13743.0,1408,light,Need Attention,Automated Email + 10% Discount,54.5%,$116.34,$2.67,26.7%
+15696.0,1409,light,Need Attention,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1410,light,Need Attention,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1411,light,Need Attention,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1412,light,Need Attention,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1413,light,Need Attention,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1414,light,Promising,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1415,light,Promising,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+15696.0,1416,light,Promising,Automated Email + 10% Discount,18.5%,$341.54,$2.67,26.7%
+13097.0,1417,light,Need Attention,Automated Email + 10% Discount,17.7%,$357.85,$2.66,26.6%
+13097.0,1418,light,Need Attention,Automated Email + 10% Discount,17.7%,$357.85,$2.66,26.6%
+13097.0,1419,light,Need Attention,Automated Email + 10% Discount,17.7%,$357.85,$2.66,26.6%
+17837.0,1420,light,Need Attention,Automated Email + 10% Discount,46.6%,$135.82,$2.65,26.5%
+17837.0,1421,light,Need Attention,Automated Email + 10% Discount,46.6%,$135.82,$2.65,26.5%
+17837.0,1422,light,Need Attention,Automated Email + 10% Discount,46.6%,$135.82,$2.65,26.5%
+17837.0,1423,light,Need Attention,Automated Email + 10% Discount,46.6%,$135.82,$2.65,26.5%
+14659.0,1424,light,Need Attention,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1425,light,Need Attention,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1426,light,Need Attention,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1427,light,Need Attention,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1428,light,Promising,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1429,light,Promising,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1430,light,Need Attention,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+14659.0,1431,light,Hibernating,Automated Email + 10% Discount,34.3%,$184.24,$2.63,26.3%
+13381.0,1432,light,Need Attention,Automated Email + 10% Discount,52.0%,$120.32,$2.51,25.1%
+16225.0,1433,light,Need Attention,Automated Email + 10% Discount,62.9%,$99.13,$2.48,24.8%
+16225.0,1434,light,Need Attention,Automated Email + 10% Discount,62.9%,$99.13,$2.48,24.8%
+14223.0,1435,light,Need Attention,Automated Email + 10% Discount,20.1%,$307.07,$2.33,23.3%
+14223.0,1436,light,Need Attention,Automated Email + 10% Discount,20.1%,$307.07,$2.33,23.3%
+14223.0,1437,light,Need Attention,Automated Email + 10% Discount,20.1%,$307.07,$2.33,23.3%
+14223.0,1438,light,Need Attention,Automated Email + 10% Discount,20.1%,$307.07,$2.33,23.3%
+16031.0,1439,light,Need Attention,Automated Email + 10% Discount,20.5%,$300.91,$2.32,23.2%
+16031.0,1440,light,Need Attention,Automated Email + 10% Discount,20.5%,$300.91,$2.32,23.2%
+16031.0,1441,light,Need Attention,Automated Email + 10% Discount,20.5%,$300.91,$2.32,23.2%
+18161.0,1442,light,Need Attention,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1443,light,Need Attention,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1444,light,Need Attention,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1445,light,Hibernating,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1446,light,Hibernating,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1447,light,Promising,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1448,light,Need Attention,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+18161.0,1449,light,Need Attention,Automated Email + 10% Discount,51.5%,$119.44,$2.31,23.1%
+14299.0,1450,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1451,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1452,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1453,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1454,light,Hibernating,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1455,light,Promising,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1456,light,Promising,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1457,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1458,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1459,light,Hibernating,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1460,light,Promising,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1461,light,Hibernating,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+14299.0,1462,light,Need Attention,Automated Email + 10% Discount,45.3%,$135.6,$2.29,22.9%
+16161.0,1463,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1464,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1465,light,Hibernating,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1466,light,Hibernating,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1467,light,Hibernating,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1468,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1469,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1470,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1471,light,Hibernating,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1472,light,Hibernating,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1473,light,Promising,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1474,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+16161.0,1475,light,Need Attention,Automated Email + 10% Discount,17.3%,$354.66,$2.27,22.7%
+13806.0,1476,light,Need Attention,Automated Email + 10% Discount,63.7%,$96.23,$2.25,22.5%
+13806.0,1477,light,Need Attention,Automated Email + 10% Discount,63.7%,$96.23,$2.25,22.5%
+13993.0,1478,light,Need Attention,Automated Email + 10% Discount,56.3%,$108.49,$2.22,22.2%
+13993.0,1479,light,Need Attention,Automated Email + 10% Discount,56.3%,$108.49,$2.22,22.2%
+13993.0,1480,light,Need Attention,Automated Email + 10% Discount,56.3%,$108.49,$2.22,22.2%
+16746.0,1481,light,Need Attention,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1482,light,Need Attention,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1483,light,Promising,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1484,light,Promising,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1485,light,Promising,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1486,light,Promising,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1487,light,Promising,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+16746.0,1488,light,Hibernating,Automated Email + 10% Discount,43.9%,$138.94,$2.2,22.0%
+12990.0,1489,light,Need Attention,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1490,light,Need Attention,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1491,light,Need Attention,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1492,light,Hibernating,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1493,light,Hibernating,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1494,light,Promising,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+12990.0,1495,light,Need Attention,Automated Email + 10% Discount,26.9%,$226.23,$2.18,21.8%
+13158.0,1496,light,Need Attention,Automated Email + 10% Discount,47.5%,$128.3,$2.18,21.8%
+13158.0,1497,light,Need Attention,Automated Email + 10% Discount,47.5%,$128.3,$2.18,21.8%
+13158.0,1498,light,Need Attention,Automated Email + 10% Discount,47.5%,$128.3,$2.18,21.8%
+13748.0,1499,light,Need Attention,Automated Email + 10% Discount,19.1%,$316.08,$2.09,20.9%
+13748.0,1500,light,Need Attention,Automated Email + 10% Discount,19.1%,$316.08,$2.09,20.9%
+13748.0,1501,light,Need Attention,Automated Email + 10% Discount,19.1%,$316.08,$2.09,20.9%
+13748.0,1502,light,Need Attention,Automated Email + 10% Discount,19.1%,$316.08,$2.09,20.9%
+13880.0,1503,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1504,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1505,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1506,light,Hibernating,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1507,light,Hibernating,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1508,light,Hibernating,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1509,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1510,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1511,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1512,light,Hibernating,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1513,light,Hibernating,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1514,light,Promising,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1515,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+13880.0,1516,light,Need Attention,Automated Email + 10% Discount,45.0%,$134.3,$2.09,20.9%
+17289.0,1517,light,Need Attention,Automated Email + 10% Discount,23.8%,$253.57,$2.08,20.8%
+17289.0,1518,light,Need Attention,Automated Email + 10% Discount,23.8%,$253.57,$2.08,20.8%
+17289.0,1519,light,Need Attention,Automated Email + 10% Discount,23.8%,$253.57,$2.08,20.8%
+12428.0,1520,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1521,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1522,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1523,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1524,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1525,light,Promising,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1526,light,Need Attention,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+12428.0,1527,light,Need Attention,Automated Email + 10% Discount,19.3%,$311.49,$2.04,20.4%
+16456.0,1528,light,Need Attention,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1529,light,Need Attention,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1530,light,Need Attention,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1531,light,Hibernating,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1532,light,Hibernating,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1533,light,Promising,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1534,light,Need Attention,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+16456.0,1535,light,Need Attention,Automated Email + 10% Discount,45.3%,$132.57,$2.0,20.0%
+12685.0,1536,light,Need Attention,Automated Email + 10% Discount,29.2%,$205.7,$2.0,20.0%
+12685.0,1537,light,Promising,Automated Email + 10% Discount,29.2%,$205.7,$2.0,20.0%
+16814.0,1538,light,Need Attention,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1539,light,Hibernating,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1540,light,Hibernating,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1541,light,Hibernating,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1542,light,Need Attention,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1543,light,Need Attention,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1544,light,Need Attention,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1545,light,Promising,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1546,light,Promising,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1547,light,Promising,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1548,light,Promising,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+16814.0,1549,light,Promising,Automated Email + 10% Discount,10.7%,$558.82,$1.97,19.7%
+12541.0,1550,light,Need Attention,Automated Email + 10% Discount,87.4%,$68.23,$1.93,19.3%
+12541.0,1551,light,Need Attention,Automated Email + 10% Discount,87.4%,$68.23,$1.93,19.3%
+12541.0,1552,light,Need Attention,Automated Email + 10% Discount,87.4%,$68.23,$1.93,19.3%
+12541.0,1553,light,Hibernating,Automated Email + 10% Discount,87.4%,$68.23,$1.93,19.3%
+12541.0,1554,light,Hibernating,Automated Email + 10% Discount,87.4%,$68.23,$1.93,19.3%
+18077.0,1555,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1556,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1557,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1558,light,Hibernating,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1559,light,Hibernating,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1560,light,Promising,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1561,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1562,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1563,light,Hibernating,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1564,light,Hibernating,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1565,light,Promising,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1566,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+18077.0,1567,light,Need Attention,Automated Email + 10% Discount,63.6%,$93.42,$1.89,18.9%
+17158.0,1568,light,Need Attention,Automated Email + 10% Discount,57.7%,$102.76,$1.87,18.7%
+17158.0,1569,light,Need Attention,Automated Email + 10% Discount,57.7%,$102.76,$1.87,18.7%
+16210.0,1570,light,Need Attention,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1571,light,Need Attention,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1572,light,Hibernating,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1573,light,Hibernating,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1574,light,Hibernating,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1575,light,Need Attention,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1576,light,Need Attention,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1577,light,Need Attention,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1578,light,Hibernating,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1579,light,Hibernating,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1580,light,Promising,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16210.0,1581,light,Promising,Automated Email + 10% Discount,13.8%,$427.6,$1.8,18.0%
+16012.0,1582,light,Need Attention,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+16012.0,1583,light,Need Attention,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+16012.0,1584,light,Need Attention,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+16012.0,1585,light,Hibernating,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+16012.0,1586,light,Promising,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+16012.0,1587,light,Promising,Automated Email + 10% Discount,10.2%,$578.6,$1.8,18.0%
+14466.0,1588,light,Hibernating,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+14466.0,1589,light,Need Attention,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+14466.0,1590,light,Need Attention,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+14466.0,1591,light,Need Attention,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+14466.0,1592,light,Hibernating,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+14466.0,1593,light,Hibernating,Automated Email + 10% Discount,91.4%,$64.04,$1.71,17.1%
+15485.0,1594,light,Need Attention,Automated Email + 10% Discount,53.6%,$108.22,$1.6,16.0%
+15485.0,1595,light,Need Attention,Automated Email + 10% Discount,53.6%,$108.22,$1.6,16.0%
+12431.0,1596,light,Need Attention,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1597,light,Need Attention,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1598,light,Need Attention,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1599,light,Hibernating,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1600,light,Promising,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1601,light,Promising,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+12431.0,1602,light,Need Attention,Automated Email + 10% Discount,27.7%,$209.19,$1.57,15.7%
+15521.0,1603,light,Need Attention,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1604,light,Need Attention,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1605,light,Need Attention,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1606,light,Need Attention,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1607,light,Need Attention,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1608,light,Hibernating,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+15521.0,1609,light,Hibernating,Automated Email + 10% Discount,32.3%,$178.48,$1.54,15.4%
+16942.0,1610,light,Need Attention,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+16942.0,1611,light,Need Attention,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+16942.0,1612,light,Need Attention,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+16942.0,1613,light,Promising,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+16942.0,1614,light,Promising,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+16942.0,1615,light,Promising,Automated Email + 10% Discount,31.2%,$184.52,$1.53,15.3%
+14387.0,1616,light,Need Attention,Automated Email + 10% Discount,70.1%,$81.96,$1.49,14.9%
+14387.0,1617,light,Need Attention,Automated Email + 10% Discount,70.1%,$81.96,$1.49,14.9%
+15985.0,1618,light,Need Attention,Automated Email + 10% Discount,28.6%,$200.52,$1.47,14.7%
+15985.0,1619,light,Need Attention,Automated Email + 10% Discount,28.6%,$200.52,$1.47,14.7%
+15985.0,1620,light,Need Attention,Automated Email + 10% Discount,28.6%,$200.52,$1.47,14.7%
+15985.0,1621,light,Need Attention,Automated Email + 10% Discount,28.6%,$200.52,$1.47,14.7%
+15238.0,1622,light,Need Attention,Automated Email + 10% Discount,9.8%,$586.11,$1.46,14.6%
+15238.0,1623,light,Need Attention,Automated Email + 10% Discount,9.8%,$586.11,$1.46,14.6%
+15238.0,1624,light,Need Attention,Automated Email + 10% Discount,9.8%,$586.11,$1.46,14.6%
+15238.0,1625,light,Need Attention,Automated Email + 10% Discount,9.8%,$586.11,$1.46,14.6%
+16539.0,1626,light,Need Attention,Automated Email + 10% Discount,21.6%,$264.99,$1.44,14.4%
+16539.0,1627,light,Need Attention,Automated Email + 10% Discount,21.6%,$264.99,$1.44,14.4%
+16539.0,1628,light,Need Attention,Automated Email + 10% Discount,21.6%,$264.99,$1.44,14.4%
+16539.0,1629,light,Need Attention,Automated Email + 10% Discount,21.6%,$264.99,$1.44,14.4%
+16539.0,1630,light,Promising,Automated Email + 10% Discount,21.6%,$264.99,$1.44,14.4%
+14961.0,1631,light,Need Attention,Automated Email + 10% Discount,8.2%,$697.56,$1.4,14.0%
+14961.0,1632,light,Need Attention,Automated Email + 10% Discount,8.2%,$697.56,$1.4,14.0%
+14961.0,1633,light,Need Attention,Automated Email + 10% Discount,8.2%,$697.56,$1.4,14.0%
+14961.0,1634,light,Promising,Automated Email + 10% Discount,8.2%,$697.56,$1.4,14.0%
+12626.0,1635,light,Need Attention,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1636,light,Need Attention,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1637,light,Need Attention,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1638,light,Promising,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1639,light,Promising,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1640,light,Promising,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1641,light,Promising,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+12626.0,1642,light,Promising,Automated Email + 10% Discount,7.1%,$799.58,$1.36,13.6%
+15752.0,1643,light,Hibernating,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+15752.0,1644,light,Need Attention,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+15752.0,1645,light,Need Attention,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+15752.0,1646,light,Need Attention,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+15752.0,1647,light,Promising,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+15752.0,1648,light,Promising,Automated Email + 10% Discount,40.9%,$137.65,$1.26,12.6%
+16094.0,1649,light,Need Attention,Automated Email + 10% Discount,36.7%,$153.11,$1.25,12.5%
+16094.0,1650,light,Need Attention,Automated Email + 10% Discount,36.7%,$153.11,$1.25,12.5%
+16094.0,1651,light,Need Attention,Automated Email + 10% Discount,36.7%,$153.11,$1.25,12.5%
+16094.0,1652,light,Need Attention,Automated Email + 10% Discount,36.7%,$153.11,$1.25,12.5%
+16094.0,1653,light,Hibernating,Automated Email + 10% Discount,36.7%,$153.11,$1.25,12.5%
+12989.0,1654,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1655,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1656,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1657,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1658,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1659,light,Hibernating,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1660,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1661,light,Promising,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1662,light,Promising,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1663,light,Need Attention,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+12989.0,1664,light,Hibernating,Automated Email + 10% Discount,23.4%,$240.61,$1.24,12.4%
+14649.0,1665,light,Need Attention,Automated Email + 10% Discount,86.3%,$65.02,$1.22,12.2%
+14649.0,1666,light,Need Attention,Automated Email + 10% Discount,86.3%,$65.02,$1.22,12.2%
+14649.0,1667,light,Need Attention,Automated Email + 10% Discount,86.3%,$65.02,$1.22,12.2%
+14649.0,1668,light,Hibernating,Automated Email + 10% Discount,86.3%,$65.02,$1.22,12.2%
+17719.0,1669,light,Need Attention,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1670,light,Need Attention,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1671,light,Need Attention,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1672,light,Promising,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1673,light,Promising,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1674,light,Promising,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+17719.0,1675,light,Promising,Automated Email + 10% Discount,7.4%,$754.43,$1.14,11.4%
+14060.0,1676,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1677,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1678,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1679,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1680,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1681,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1682,light,Promising,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1683,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1684,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1685,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1686,light,Promising,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1687,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1688,light,Need Attention,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+14060.0,1689,light,Hibernating,Automated Email + 10% Discount,38.4%,$144.39,$1.09,10.9%
+13018.0,1690,light,Need Attention,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1691,light,Need Attention,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1692,light,Need Attention,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1693,light,Need Attention,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1694,light,Promising,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1695,light,Promising,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+13018.0,1696,light,Promising,Automated Email + 10% Discount,6.7%,$822.68,$1.09,10.9%
+14309.0,1697,light,Need Attention,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1698,light,Need Attention,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1699,light,Need Attention,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1700,light,Need Attention,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1701,light,Hibernating,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1702,light,Hibernating,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1703,light,Promising,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+14309.0,1704,light,Need Attention,Automated Email + 10% Discount,41.0%,$134.57,$1.04,10.4%
+13593.0,1705,light,Need Attention,Automated Email + 10% Discount,52.8%,$104.39,$1.03,10.3%
+13593.0,1706,light,Need Attention,Automated Email + 10% Discount,52.8%,$104.39,$1.03,10.3%
+13576.0,1707,light,Need Attention,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1708,light,Need Attention,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1709,light,Need Attention,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1710,light,Need Attention,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1711,light,Need Attention,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1712,light,Promising,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1713,light,Hibernating,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+13576.0,1714,light,Hibernating,Automated Email + 10% Discount,28.9%,$191.05,$1.03,10.3%
+14524.0,1715,light,Need Attention,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+14524.0,1716,light,Need Attention,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+14524.0,1717,light,Need Attention,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+14524.0,1718,light,Hibernating,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+14524.0,1719,light,Hibernating,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+14524.0,1720,light,Need Attention,Automated Email + 10% Discount,42.8%,$128.93,$1.03,10.3%
+13266.0,1721,light,Need Attention,Automated Email + 10% Discount,20.3%,$271.46,$1.02,10.2%
+13266.0,1722,light,Need Attention,Automated Email + 10% Discount,20.3%,$271.46,$1.02,10.2%
+13266.0,1723,light,Need Attention,Automated Email + 10% Discount,20.3%,$271.46,$1.02,10.2%
+13266.0,1724,light,Need Attention,Automated Email + 10% Discount,20.3%,$271.46,$1.02,10.2%
+13266.0,1725,light,Hibernating,Automated Email + 10% Discount,20.3%,$271.46,$1.02,10.2%
+13777.0,1726,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1727,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1728,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1729,light,Hibernating,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1730,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1731,light,Promising,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1732,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1733,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1734,light,Hibernating,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1735,light,Promising,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1736,light,Promising,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+13777.0,1737,light,Need Attention,Automated Email + 10% Discount,12.5%,$438.94,$1.0,10.0%
+16172.0,1738,light,Need Attention,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1739,light,Need Attention,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1740,light,Need Attention,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1741,light,Hibernating,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1742,light,Promising,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1743,light,Hibernating,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1744,light,Need Attention,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+16172.0,1745,light,Hibernating,Automated Email + 10% Discount,57.7%,$94.54,$0.9,9.0%
+12437.0,1746,light,Need Attention,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1747,light,Promising,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1748,light,Promising,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1749,light,Promising,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1750,light,Hibernating,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1751,light,Hibernating,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12437.0,1752,light,Promising,Automated Email + 10% Discount,42.1%,$129.41,$0.89,8.9%
+12408.0,1753,light,Need Attention,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1754,light,Need Attention,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1755,light,Need Attention,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1756,light,Hibernating,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1757,light,Hibernating,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1758,light,Promising,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+12408.0,1759,light,Need Attention,Automated Email + 10% Discount,24.7%,$220.55,$0.88,8.8%
+16474.0,1760,light,Need Attention,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1761,light,Need Attention,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1762,light,Need Attention,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1763,light,Promising,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1764,light,Promising,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1765,light,Hibernating,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1766,light,Hibernating,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+16474.0,1767,light,Hibernating,Automated Email + 10% Discount,84.4%,$64.42,$0.88,8.8%
+18230.0,1768,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1769,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1770,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1771,light,Hibernating,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1772,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1773,light,Hibernating,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1774,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1775,light,Hibernating,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1776,light,Hibernating,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1777,light,Promising,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1778,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+18230.0,1779,light,Need Attention,Automated Email + 10% Discount,32.3%,$167.75,$0.83,8.3%
+15053.0,1780,light,Need Attention,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+15053.0,1781,light,Need Attention,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+15053.0,1782,light,Need Attention,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+15053.0,1783,light,Promising,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+15053.0,1784,light,Promising,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+15053.0,1785,light,Hibernating,Automated Email + 10% Discount,42.4%,$127.14,$0.78,7.8%
+12584.0,1786,light,Need Attention,Automated Email + 10% Discount,18.6%,$288.72,$0.73,7.3%
+12584.0,1787,light,Need Attention,Automated Email + 10% Discount,18.6%,$288.72,$0.73,7.3%
+12584.0,1788,light,Need Attention,Automated Email + 10% Discount,18.6%,$288.72,$0.73,7.3%
+12584.0,1789,light,Need Attention,Automated Email + 10% Discount,18.6%,$288.72,$0.73,7.3%
+12584.0,1790,light,Hibernating,Automated Email + 10% Discount,18.6%,$288.72,$0.73,7.3%
+15615.0,1791,light,Need Attention,Automated Email + 10% Discount,6.5%,$827.05,$0.68,6.8%
+15615.0,1792,light,Promising,Automated Email + 10% Discount,6.5%,$827.05,$0.68,6.8%
+17768.0,1793,light,Need Attention,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1794,light,Need Attention,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1795,light,Need Attention,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1796,light,Hibernating,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1797,light,Hibernating,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1798,light,Promising,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1799,light,Need Attention,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+17768.0,1800,light,Need Attention,Automated Email + 10% Discount,41.8%,$127.33,$0.64,6.4%
+13871.0,1801,light,Need Attention,Automated Email + 10% Discount,8.9%,$595.36,$0.61,6.1%
+13871.0,1802,light,Need Attention,Automated Email + 10% Discount,8.9%,$595.36,$0.61,6.1%
+13871.0,1803,light,Need Attention,Automated Email + 10% Discount,8.9%,$595.36,$0.61,6.1%
+13871.0,1804,light,Hibernating,Automated Email + 10% Discount,8.9%,$595.36,$0.61,6.1%
+13871.0,1805,light,Promising,Automated Email + 10% Discount,8.9%,$595.36,$0.61,6.1%
+14586.0,1806,light,Need Attention,Automated Email + 10% Discount,15.5%,$340.08,$0.54,5.4%
+15046.0,1807,light,Need Attention,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1808,light,Need Attention,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1809,light,Need Attention,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1810,light,Promising,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1811,light,Promising,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1812,light,Promising,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15046.0,1813,light,Hibernating,Automated Email + 10% Discount,29.9%,$174.86,$0.45,4.5%
+15952.0,1814,light,Need Attention,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1815,light,Need Attention,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1816,light,Need Attention,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1817,light,Hibernating,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1818,light,Promising,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1819,light,Promising,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+15952.0,1820,light,Hibernating,Automated Email + 10% Discount,43.7%,$119.41,$0.43,4.3%
+13755.0,1821,light,Need Attention,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1822,light,Need Attention,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1823,light,Need Attention,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1824,light,Hibernating,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1825,light,Hibernating,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1826,light,Promising,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1827,light,Need Attention,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+13755.0,1828,light,Need Attention,Automated Email + 10% Discount,10.4%,$496.87,$0.35,3.5%
+16612.0,1829,light,Need Attention,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1830,light,Need Attention,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1831,light,Need Attention,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1832,light,Hibernating,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1833,light,Hibernating,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1834,light,Promising,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1835,light,Need Attention,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16612.0,1836,light,Need Attention,Automated Email + 10% Discount,24.8%,$206.15,$0.22,2.2%
+16145.0,1837,light,Need Attention,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1838,light,Need Attention,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1839,light,Need Attention,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1840,light,Need Attention,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1841,light,Promising,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1842,light,Promising,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1843,light,Hibernating,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+16145.0,1844,light,Promising,Automated Email + 10% Discount,8.1%,$631.32,$0.19,1.9%
+15674.0,1845,light,Need Attention,Automated Email + 10% Discount,15.6%,$326.85,$0.18,1.8%
+15674.0,1846,light,Need Attention,Automated Email + 10% Discount,15.6%,$326.85,$0.18,1.8%
+15674.0,1847,light,Need Attention,Automated Email + 10% Discount,15.6%,$326.85,$0.18,1.8%
+15674.0,1848,light,Need Attention,Automated Email + 10% Discount,15.6%,$326.85,$0.18,1.8%
+16010.0,1849,light,Need Attention,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1850,light,Need Attention,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1851,light,Need Attention,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1852,light,Need Attention,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1853,light,Hibernating,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1854,light,Hibernating,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1855,light,Hibernating,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1856,light,Hibernating,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+16010.0,1857,light,Promising,Automated Email + 10% Discount,42.3%,$120.11,$0.16,1.6%
+14141.0,1858,light,Need Attention,Automated Email + 10% Discount,64.9%,$78.3,$0.16,1.6%
+14141.0,1859,light,Need Attention,Automated Email + 10% Discount,64.9%,$78.3,$0.16,1.6%
+14141.0,1860,light,Need Attention,Automated Email + 10% Discount,64.9%,$78.3,$0.16,1.6%
+17422.0,1861,light,Need Attention,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+17422.0,1862,light,Need Attention,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+17422.0,1863,light,Need Attention,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+17422.0,1864,light,Need Attention,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+17422.0,1865,light,Promising,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+17422.0,1866,light,Hibernating,Automated Email + 10% Discount,23.2%,$217.94,$0.1,1.0%
+12747.0,1867,light,Need Attention,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1868,light,Hibernating,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1869,light,Hibernating,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1870,light,Hibernating,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1871,light,Need Attention,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1872,light,Need Attention,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1873,light,Need Attention,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1874,light,Promising,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1875,light,Promising,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1876,light,Promising,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1877,light,Promising,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+12747.0,1878,light,Promising,Automated Email + 10% Discount,7.4%,$681.76,$0.05,0.5%
+13233.0,1879,light,Need Attention,Automated Email + 10% Discount,71.0%,$70.68,$0.04,0.4%
+13233.0,1880,light,Need Attention,Automated Email + 10% Discount,71.0%,$70.68,$0.04,0.4%

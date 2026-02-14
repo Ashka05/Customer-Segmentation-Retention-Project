@@ -1,0 +1,5 @@
+Segment,Customer Count,Percentage,Avg Churn Risk,Avg CLV,Total CLV,High Risk Count
+Need Attention,7754,56.0%,50.9%,$177.26,"$1,122,613.03",2348
+Hibernating,4413,31.9%,55.7%,$164.06,"$470,682.59",1224
+Promising,1619,11.7%,20.5%,$856.49,"$1,342,118.42",118
+Lost/Churned,57,0.4%,45.4%,$440.67,"$24,237.10",13

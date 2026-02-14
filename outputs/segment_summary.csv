@@ -1,0 +1,6 @@
+Segment ID,Segment Name,Customer Count,Percentage (%),Avg Days Since Purchase,Avg Transactions,Avg Order Value ($),Total Revenue ($)
+0,Hibernating,713,36.80949922560661,125.9,26.0,16.41,236340.35
+1,Need Attention,884,45.63758389261745,50.4,24.2,15.15,264054.78
+2,Promising,10,0.5162622612287042,28.7,653.0,18.18,83494.3
+3,Promising,319,16.468766133195665,37.1,98.0,20.99,452505.11
+4,Lost/Churned,11,0.5678884873515746,77.2,93.4,11.51,12016.69

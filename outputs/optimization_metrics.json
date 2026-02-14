@@ -1,0 +1,29 @@
+{
+  "total_customers_targeted": 273,
+  "total_campaign_cost": 6580.0,
+  "total_expected_revenue_saved": 14498.843807584004,
+  "total_expected_net_value": 7918.843807584003,
+  "portfolio_roi_pct": 120.34717032802436,
+  "expected_customers_saved": 40.75338362510632,
+  "cost_per_customer_saved": 161.45898609376715,
+  "by_campaign_tier": {
+    "premium": {
+      "count": 61,
+      "cost": 3050.0,
+      "expected_revenue": 9390.714379724333,
+      "expected_value": 6340.7143797243325
+    },
+    "standard": {
+      "count": 94,
+      "cost": 2350.0,
+      "expected_revenue": 3669.686222063908,
+      "expected_value": 1319.6862220639077
+    },
+    "light": {
+      "count": 118,
+      "cost": 1180.0,
+      "expected_revenue": 1438.4432057957627,
+      "expected_value": 258.44320579576254
+    }
+  }
+}

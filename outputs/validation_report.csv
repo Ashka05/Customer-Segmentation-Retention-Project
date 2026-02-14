@@ -1,0 +1,17 @@
+Check,Status,Severity,Message
+Schema Validation,PASS,ERROR,All 8 required columns present
+Completeness - CustomerID,FAIL,WARNING,24.93% missing (threshold: 5.0%)
+Overall Completeness,PASS,ERROR,Average missing: 3.15%
+Data Type - Quantity,PASS,ERROR,Quantity is numeric-compatible
+Data Type - UnitPrice,PASS,ERROR,UnitPrice is numeric-compatible
+Data Type - InvoiceDate,PASS,ERROR,InvoiceDate is datetime-compatible
+Value Range - UnitPrice,FAIL,WARNING,"Negative: 2, Zero: 2,515, Valid: 539,388"
+Value Range - Quantity,PASS,INFO,"Out of range: 0, Zero: 0"
+Business Rule - Cancellations,PASS,INFO,"Found 9,288 cancellations (1.71%)"
+Business Rule - Returns,PASS,INFO,"Found 10,624 returns (1.96%)"
+Business Rule - Revenue Distribution,PASS,INFO,"Positive: 530,104, Negative: 9,290, Zero: 2,515"
+Duplicate Records,FAIL,WARNING,"Found 20,378 duplicate rows (3.76%)"
+Date Range Validation,FAIL,WARNING,Date range: 2010-01-12 to 2011-12-10 (697 days)
+Date Completeness,FAIL,WARNING,"Found 308,950 null dates"
+Customer Data,PASS,INFO,"Unique customers: 4,372, Null CustomerID: 135,080 (24.93%)"
+Customer Transaction Count,PASS,INFO,79 customers with < 2 transactions

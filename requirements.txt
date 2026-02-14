@@ -1,0 +1,45 @@
+# Customer Retention Intelligence System - Dependencies
+# Pillar 0: Data Engineering Foundation
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Statistical analysis
+scipy>=1.7.0
+
+# Configuration management
+pyyaml>=6.0
+
+# Data validation and quality
+# Note: great-expectations can be added later for more advanced validation
+
+# Storage formats
+pyarrow>=10.0.0  # Required for Parquet format
+fastparquet>=2023.0.0  # Alternative Parquet engine
+
+# Optional but recommended
+python-dateutil>=2.8.0  # Better date parsing
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
+# Machine Learning (Pillar 1+)
+scikit-learn>=1.2.0      # For RFM clustering, churn/CLV models
+lightgbm>=3.3.0          # Gradient boosting (Pillar 2, 3)
+
+# Visualization (Pillar 1+)
+matplotlib>=3.6.0        # Static plots
+seaborn>=0.12.0          # Statistical visualization
+
+# Future pillars will add:
+# xgboost>=1.7.0       # Alternative gradient boosting (Pillar 2, 3)
+# lifetimes>=0.11.0    # For BG/NBD CLV modeling (Pillar 3)
+# plotly>=5.14.0       # Interactive dashboards (optional)
+# fastapi>=0.95.0      # REST API (deployment)
+# uvicorn>=0.21.0      # ASGI server (deployment)
+# pydantic>=1.10.0     # Data validation (deployment)

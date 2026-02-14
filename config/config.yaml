@@ -1,0 +1,282 @@
+# ============================================================================
+# CUSTOMER RETENTION INTELLIGENCE SYSTEM - CONFIGURATION
+# ============================================================================
+# This file contains all hyperparameters, paths, and settings for the system
+# Modify values here instead of hardcoding in scripts
+
+# ----------------------------------------------------------------------------
+# PROJECT METADATA
+# ----------------------------------------------------------------------------
+project:
+  name: "Customer Retention Intelligence System"
+  version: "1.0.0"
+  author: "Principal Data Scientist"
+  description: "Production-grade customer retention system using UCI Online Retail data"
+
+# ----------------------------------------------------------------------------
+# DATA PATHS
+# ----------------------------------------------------------------------------
+paths:
+  raw_data: "data/raw/online_retail.csv"
+  processed_data: "data/processed/"
+  features: "data/features/"
+  models: "models/"
+  outputs: "outputs/"
+  logs: "logs/"
+
+# ----------------------------------------------------------------------------
+# DATA CLEANING PARAMETERS
+# ----------------------------------------------------------------------------
+data_cleaning:
+  # Columns to validate
+  required_columns:
+    - InvoiceNo
+    - StockCode
+    - Description
+    - Quantity
+    - InvoiceDate
+    - UnitPrice
+    - CustomerID
+    - Country
+  
+  # Business logic filters
+  filters:
+    min_unit_price: 0.01          # Minimum valid unit price
+    max_unit_price_percentile: 99  # Remove outliers above this percentile
+    min_quantity: -100000          # Minimum quantity (includes returns)
+    max_quantity: 100000           # Maximum quantity
+    min_customer_transactions: 2   # Minimum transactions per customer
+    
+  # Return/cancellation identification
+  cancellation_prefix: "C"         # InvoiceNo starting with 'C' are cancellations
+  
+  # Date parsing
+  date_format: "%m/%d/%Y %H:%M"    # Or "%Y-%m-%d %H:%M:%S" depending on dataset
+  
+  # Outlier detection
+  remove_price_outliers: true
+  remove_quantity_outliers: true
+  quantity_outlier_std: 5          # Number of std deviations for outlier detection
+
+# ----------------------------------------------------------------------------
+# FEATURE ENGINEERING PARAMETERS
+# ----------------------------------------------------------------------------
+feature_engineering:
+  # RFM calculation
+  rfm:
+    reference_date: null             # If null, use max date in dataset
+    
+  # Time windows for temporal features (in days)
+  time_windows:
+    short: 30
+    medium: 60
+    long: 90
+    very_long: 180
+    
+  # Aggregation periods
+  aggregation_periods:
+    - 7    # weekly
+    - 30   # monthly
+    - 90   # quarterly
+    
+  # Feature groups to generate
+  feature_groups:
+    - rfm
+    - temporal_behavior
+    - product_interaction
+    - engagement
+    - trend
+    - seasonality
+
+# ----------------------------------------------------------------------------
+# CHURN DEFINITION PARAMETERS
+# ----------------------------------------------------------------------------
+churn:
+  # Churn window (days of inactivity to consider churned)
+  churn_window_days: 90
+  
+  # Alternative windows for sensitivity analysis
+  alternative_windows:
+    - 60
+    - 120
+    
+  # Minimum tenure to be eligible for churn labeling (days)
+  min_tenure_days: 30
+  
+  # Minimum transactions to be considered active customer
+  min_transactions: 2
+  
+  # Observation window (days of history to use for features)
+  observation_window_days: 180
+  
+  # Prediction window (days to predict churn in)
+  prediction_window_days: 90
+  
+  # Gap between observation and prediction (optional, days)
+  gap_days: 0
+
+# ----------------------------------------------------------------------------
+# CUSTOMER LIFETIME VALUE PARAMETERS
+# ----------------------------------------------------------------------------
+clv:
+  # Prediction horizon (days)
+  prediction_horizon_days: 180
+  
+  # Discount rate (annual)
+  annual_discount_rate: 0.10
+  
+  # Minimum transactions for CLV calculation
+  min_transactions: 2
+  
+  # Target transformation
+  log_transform: true
+
+# ----------------------------------------------------------------------------
+# TEMPORAL VALIDATION PARAMETERS
+# ----------------------------------------------------------------------------
+temporal_validation:
+  # Train/validation/test split ratios (by time)
+  train_ratio: 0.6
+  val_ratio: 0.2
+  test_ratio: 0.2
+  
+  # Snapshot dates for multiple predictions (YYYY-MM-DD format)
+  # If empty, will auto-generate based on data
+  snapshot_dates: []
+  
+  # Rolling window parameters
+  rolling_window_size_days: 30
+  rolling_window_step_days: 7
+
+# ----------------------------------------------------------------------------
+# DATA QUALITY THRESHOLDS
+# ----------------------------------------------------------------------------
+data_quality:
+  # Maximum allowed missing percentage per column
+  max_missing_pct: 5.0
+  
+  # Minimum required rows after cleaning
+  min_rows: 10000
+  
+  # Minimum unique customers
+  min_unique_customers: 1000
+  
+  # Date range validation
+  min_date: "2010-01-01"
+  max_date: "2012-12-31"
+  
+  # Duplicate handling
+  check_duplicates: true
+  duplicate_subset:
+    - InvoiceNo
+    - StockCode
+    - CustomerID
+
+# ----------------------------------------------------------------------------
+# FEATURE STORE SETTINGS
+# ----------------------------------------------------------------------------
+feature_store:
+  # Storage format
+  format: "parquet"  # Options: parquet, csv, feather
+  
+  # Compression
+  compression: "snappy"  # Options: snappy, gzip, None
+  
+  # Partitioning
+  partition_by: "snapshot_date"
+  
+  # Feature versioning
+  versioning_enabled: true
+  
+  # Feature validation
+  validate_on_write: true
+  
+  # Feature statistics
+  compute_statistics: true
+
+# ----------------------------------------------------------------------------
+# LOGGING CONFIGURATION
+# ----------------------------------------------------------------------------
+logging:
+  level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_logging: true
+  console_logging: true
+  log_file: "logs/retention_system.log"
+
+# ----------------------------------------------------------------------------
+# RANDOM SEED (for reproducibility)
+# ----------------------------------------------------------------------------
+random_seed: 42
+
+# ----------------------------------------------------------------------------
+# PERFORMANCE SETTINGS
+# ----------------------------------------------------------------------------
+performance:
+  # Parallel processing
+  n_jobs: -1  # -1 = use all cores
+  
+  # Batch size for processing
+  batch_size: 10000
+  
+  # Memory optimization
+  use_categorical_dtype: true
+  low_memory_mode: false
+
+# ----------------------------------------------------------------------------
+# BUSINESS RULES
+# ----------------------------------------------------------------------------
+business_rules:
+  # Revenue calculation
+  calculate_revenue: true  # Revenue = Quantity * UnitPrice
+  
+  # Return handling
+  track_returns: true
+  exclude_returns_from_revenue: false  # If false, returns reduce revenue
+  
+  # Margin estimation (if no actual margin data)
+  default_margin_pct: 30.0
+  
+  # Customer segmentation
+  high_value_threshold_pct: 80  # Top 20% by CLV
+  at_risk_churn_probability: 0.7
+
+# ----------------------------------------------------------------------------
+# VALIDATION RULES
+# ----------------------------------------------------------------------------
+validation:
+  # Feature validation rules
+  features:
+    rfm_recency:
+      min: 0
+      max: 1000
+      dtype: "float64"
+    rfm_frequency:
+      min: 1
+      max: 10000
+      dtype: "int64"
+    rfm_monetary:
+      min: 0
+      max: 1000000
+      dtype: "float64"
+  
+  # Label validation
+  labels:
+    churn:
+      values: [0, 1]
+      dtype: "int64"
+    clv:
+      min: 0
+      max: 1000000
+      dtype: "float64"
+
+# ----------------------------------------------------------------------------
+# EXPERIMENTAL SETTINGS (for A/B testing, etc.)
+# ----------------------------------------------------------------------------
+experimental:
+  # Enable experimental features
+  enable_advanced_features: false
+  
+  # A/B test parameters
+  ab_test_split_ratio: 0.1
+  control_group_size: 0.1

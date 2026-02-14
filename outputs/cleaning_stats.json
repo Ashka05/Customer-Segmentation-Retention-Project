@@ -1,0 +1,19 @@
+{
+  "initial_rows": 541909,
+  "null_customer_removed": 135080,
+  "null_stockcode_removed": 0,
+  "null_description_removed": 0,
+  "null_date_removed": 234047,
+  "numeric_conversion_failed": 0,
+  "cancellations_flagged": 4133,
+  "returns_flagged": 4133,
+  "invalid_price_removed": 18,
+  "zero_quantity_removed": 0,
+  "price_outliers_removed": 1715,
+  "quantity_outliers_removed": 7698,
+  "customers_removed_min_txn": 105,
+  "high_return_customers": 70,
+  "final_rows": 163246,
+  "rows_removed": 378663,
+  "removal_pct": 69.87575404726624
+}

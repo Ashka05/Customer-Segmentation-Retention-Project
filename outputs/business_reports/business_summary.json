@@ -1,0 +1,51 @@
+{
+  "Report Date": "2026-02-14 11:35",
+  "Data Overview": {
+    "Total Transactions Analyzed": "163,246",
+    "Total Customers": "2,933",
+    "Date Range": "2010-01-12 to 2011-12-10",
+    "Total Revenue": "$2,236,943.45"
+  },
+  "Segmentation Results": {
+    "Number of Segments": "4",
+    "Largest Segment": "Need Attention",
+    "Smallest Segment": "Lost/Churned"
+  },
+  "Churn Analysis": {
+    "Overall Churn Risk": "53.9%",
+    "High Risk Customers (>70%)": "777",
+    "Model ROC AUC": "0.767",
+    "Model Recall": "94.5%"
+  },
+  "CLV Predictions": {
+    "Average CLV": "$181.58",
+    "Median CLV": "$23.53",
+    "Total Portfolio CLV": "$351,718.07",
+    "Model R\u00b2": "0.491"
+  },
+  "Campaign Optimization": {
+    "Budget Allocated": "$6,580.00",
+    "Customers Targeted": "273",
+    "Expected Revenue Saved": "$14,498.84",
+    "Expected Net Value": "$7,918.84",
+    "Portfolio ROI": "120.3%",
+    "Expected Customers Saved": "41"
+  },
+  "Campaign Breakdown": {
+    "Premium Campaign": {
+      "Customers": "61",
+      "Cost": "$3,050.00",
+      "Expected Value": "$6,340.71"
+    },
+    "Standard Campaign": {
+      "Customers": "94",
+      "Cost": "$2,350.00",
+      "Expected Value": "$1,319.69"
+    },
+    "Light Campaign": {
+      "Customers": "118",
+      "Cost": "$1,180.00",
+      "Expected Value": "$258.44"
+    }
+  }
+}

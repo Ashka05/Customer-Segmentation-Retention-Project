@@ -1,0 +1,102 @@
+[
+  {
+    "segment": 0,
+    "segment_name": "Hibernating",
+    "size": 713,
+    "size_pct": 36.80949922560661,
+    "avg_recency": 125.91584852734923,
+    "avg_frequency": 26.032258064516128,
+    "avg_monetary": 16.406504560434374,
+    "total_revenue": 236340.35,
+    "priority": "Medium",
+    "goal": "Reactivation",
+    "actions": [
+      "Remind of past purchases",
+      "New product announcements",
+      "Aggressive discounts",
+      "Limited-time comeback offers"
+    ],
+    "campaign_type": "Reactivation campaigns, deep discounts",
+    "budget_allocation": "Medium (ROI-dependent)"
+  },
+  {
+    "segment": 1,
+    "segment_name": "Need Attention",
+    "size": 884,
+    "size_pct": 45.63758389261745,
+    "avg_recency": 50.41968325791855,
+    "avg_frequency": 24.22737556561086,
+    "avg_monetary": 15.154522099546364,
+    "total_revenue": 264054.78,
+    "priority": "Medium",
+    "goal": "Prevent decline",
+    "actions": [
+      "Engagement campaigns",
+      "Value propositions",
+      "Special offers",
+      "Feedback surveys"
+    ],
+    "campaign_type": "Engagement emails, moderate discounts",
+    "budget_allocation": "Low-Medium"
+  },
+  {
+    "segment": 2,
+    "segment_name": "Promising",
+    "size": 10,
+    "size_pct": 0.5162622612287042,
+    "avg_recency": 28.7,
+    "avg_frequency": 653.0,
+    "avg_monetary": 18.17969878396059,
+    "total_revenue": 83494.3,
+    "priority": "Medium-High",
+    "goal": "Accelerate to Champions",
+    "actions": [
+      "Encourage higher frequency",
+      "Category expansion offers",
+      "Loyalty program enrollment",
+      "Engagement campaigns"
+    ],
+    "campaign_type": "Frequency incentives, cross-category offers",
+    "budget_allocation": "Medium"
+  },
+  {
+    "segment": 3,
+    "segment_name": "Promising",
+    "size": 319,
+    "size_pct": 16.468766133195665,
+    "avg_recency": 37.06896551724138,
+    "avg_frequency": 98.04702194357367,
+    "avg_monetary": 20.989284406793264,
+    "total_revenue": 452505.11,
+    "priority": "Medium-High",
+    "goal": "Accelerate to Champions",
+    "actions": [
+      "Encourage higher frequency",
+      "Category expansion offers",
+      "Loyalty program enrollment",
+      "Engagement campaigns"
+    ],
+    "campaign_type": "Frequency incentives, cross-category offers",
+    "budget_allocation": "Medium"
+  },
+  {
+    "segment": 4,
+    "segment_name": "Lost/Churned",
+    "size": 11,
+    "size_pct": 0.5678884873515746,
+    "avg_recency": 77.18181818181819,
+    "avg_frequency": 93.36363636363636,
+    "avg_monetary": 11.507462194557313,
+    "total_revenue": 12016.69,
+    "priority": "Low",
+    "goal": "Low-cost reactivation attempts",
+    "actions": [
+      "Minimal-cost reactivation",
+      "Only if high CLV",
+      "Generic re-engagement",
+      "Opt-out option"
+    ],
+    "campaign_type": "Automated win-back (low cost)",
+    "budget_allocation": "Low (only high-CLV customers)"
+  }
+]

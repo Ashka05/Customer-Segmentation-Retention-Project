@@ -1,0 +1,16 @@
+{
+  "threshold": 0.1,
+  "accuracy": 0.6602444028186603,
+  "precision": 0.6309118023008096,
+  "recall": 0.945109302696665,
+  "f1_score": 0.7566911529862663,
+  "f2_score": 0.8595019735314604,
+  "roc_auc": 0.7665653467874822,
+  "true_negatives": 1479,
+  "false_positives": 3465,
+  "false_negatives": 344,
+  "true_positives": 5923,
+  "churn_capture_rate": 0.945109302696665,
+  "precision_at_threshold": 0.6309118023008096,
+  "lift_at_top_k_pct": 1.128634468740127
+}

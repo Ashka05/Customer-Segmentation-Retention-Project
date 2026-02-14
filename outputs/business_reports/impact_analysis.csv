@@ -1,0 +1,9 @@
+Metric,Baseline (No Action),With ML Optimization,Improvement
+Total Customers,"1,937","1,937",→
+Customers Churning,"1,119","1,078",-41 (4%)
+Churn Rate,57.8%,55.7%,-2.1%
+Revenue at Risk,"$52,354","$37,856","$14,499"
+Retention Investment,$0,"$6,580","-$6,580"
+Revenue Saved,$0,"$14,499","+$14,499"
+Net Impact,"-$52,354","$7,919","+$60,273"
+ROI,N/A,120%,+120%
